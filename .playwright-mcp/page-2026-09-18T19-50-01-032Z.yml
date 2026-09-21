@@ -1,0 +1,136 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - navigation [ref=e6]:
+        - link [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "tripo-logo" [ref=e10]
+        - button [ref=e11] [cursor=pointer]:
+          - link [ref=e12]:
+            - /url: /workspace/generate
+            - paragraph [ref=e13]: 3D Workspace
+        - generic [ref=e16]:
+          - link [ref=e17] [cursor=pointer]:
+            - /url: /
+            - paragraph [ref=e18]: Home
+          - link [ref=e19] [cursor=pointer]:
+            - /url: /assets
+            - paragraph [ref=e20]: Assets
+          - link [ref=e21] [cursor=pointer]:
+            - /url: /creator-hub
+            - paragraph [ref=e22]: Creator Hub
+          - button [ref=e23] [cursor=pointer]:
+            - paragraph [ref=e24]: Resources
+      - generic [ref=e26]:
+        - button "Sign up/Log in" [ref=e27] [cursor=pointer]
+        - link "Help Center" [ref=e29] [cursor=pointer]:
+          - /url: https://www.tripo3d.ai/en/help
+        - generic [ref=e31] [cursor=pointer]: View Plans
+        - button [ref=e33] [cursor=pointer]:
+          - paragraph [ref=e35]: DCC Bridge
+          - region [ref=e36]:
+            - generic [ref=e38]:
+              - group [ref=e39]
+              - group [ref=e41]
+              - group [ref=e43]
+              - group [ref=e45]
+              - group [ref=e47]
+              - group [ref=e49]
+              - group [ref=e51]
+              - group [ref=e53]
+              - group [ref=e55]
+              - group [ref=e57]
+    - main [ref=e63]:
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e75]:
+              - button [ref=e76] [cursor=pointer]:
+                - button [ref=e77]
+              - button [ref=e81] [cursor=pointer]
+            - generic [ref=e84]:
+              - button "Recraft" [ref=e86] [cursor=pointer]
+              - button [ref=e92] [cursor=pointer]:
+                - paragraph [ref=e94]: 3D Print
+              - button "Share coupon" [disabled] [ref=e97]:
+                - generic [ref=e99]: Share
+                - img "coupon"
+              - button "Export" [ref=e101] [cursor=pointer]
+              - generic [ref=e105] [cursor=pointer]
+          - generic [ref=e116]:
+            - generic [ref=e117]: Start Creating in Minutes
+            - generic [ref=e118]:
+              - generic [ref=e119]:
+                - img "Generate 3D Models for Free" [ref=e120]
+                - generic [ref=e121]: Generate 3D Models for Free
+              - generic [ref=e122]:
+                - img "Game-Ready Assets in 2s" [ref=e123]
+                - generic [ref=e124]: Game-Ready Assets in 2s
+              - generic [ref=e125]:
+                - img "Try Premium Features for Free" [ref=e126]
+                - generic [ref=e127]: Try Premium Features for Free
+            - button "Start Free" [ref=e128] [cursor=pointer]
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - generic [ref=e133]:
+              - button "打开 molly 的个人主页" [ref=e134] [cursor=pointer]:
+                - img "molly avatar" [ref=e137]
+              - generic [ref=e138]:
+                - button "molly" [ref=e139] [cursor=pointer]
+                - button "Follow" [ref=e141] [cursor=pointer]
+            - generic [ref=e146]:
+              - heading "robot 3d model" [level=1] [ref=e151]
+              - generic [ref=e152]:
+                - link "character" [ref=e153] [cursor=pointer]:
+                  - /url: /3d-model-gallery/character
+                - link "character game asset" [ref=e154] [cursor=pointer]:
+                  - /url: /3d-model-gallery/character-game-asset
+                - link "character game asset stylized" [ref=e155] [cursor=pointer]:
+                  - /url: /3d-model-gallery/character-game-asset-stylized
+                - button "展开标签" [ref=e156] [cursor=pointer]
+              - generic [ref=e158]:
+                - generic [ref=e159]: Input
+                - generic [ref=e161] [cursor=pointer]:
+                  - img "Input image for 3D model generation" [ref=e162]
+                  - button "Preview image" [ref=e163]
+              - generic [ref=e164]:
+                - generic [ref=e165]:
+                  - generic [ref=e166]: Prompt
+                  - button "复制 Prompt" [ref=e167] [cursor=pointer]
+                - paragraph [ref=e169]: blue and silver robot with a large square head, glowing cyan eyes, and articulated limbs
+              - paragraph [ref=e170]: 2K·PBR·v3.0-20250812
+          - generic [ref=e171]:
+            - generic [ref=e172]: Related Models
+            - generic [ref=e173]:
+              - link [ref=e174] [cursor=pointer]:
+                - /url: /3d-model/cowboy-on-horseback-stylized-character-with-brown-hat-and-horse-in-a-f9ddbf1f-b4a0-43d5-8b88-da50422ca657
+                - 'img "3d model: cowboy on horseback stylized character with brown hat and horse in a" [ref=e175]'
+              - link [ref=e176] [cursor=pointer]:
+                - /url: /3d-model/young-boy-in-a-dark-jacket-with-a-badge-amber-eyes-standing-in-a-sta-664ddcc0-fa2a-4e70-abf1-2fc938f25df7
+                - 'img "3d model: young boy in a dark jacket with a badge amber eyes standing in a sta" [ref=e177]'
+              - link [ref=e178] [cursor=pointer]:
+                - /url: /3d-model/mexican-flag-sphere-with-eagle-emblem-and-cartoon-eyes-046ac8de-36ec-4787-8393-d4aa98af4325
+                - 'img "3d model: mexican flag sphere with eagle emblem and cartoon eyes" [ref=e179]'
+              - link [ref=e180] [cursor=pointer]:
+                - /url: /3d-model/voxel-princess-with-lantern-chibi-character-in-light-blue-and-white-d-8ed2a197-de64-48b9-b43e-e90c7c3b45e3
+                - 'img "3d model: voxel princess with lantern chibi character in light blue and white d" [ref=e181]'
+              - link [ref=e182] [cursor=pointer]:
+                - /url: /3d-model/kneeling-woman-in-bikini-with-tattoos-a538923c-8ae8-4e61-abbf-98702c9d6b13
+                - 'img "3d model: kneeling woman in bikini with tattoos" [ref=e183]'
+              - link [ref=e184] [cursor=pointer]:
+                - /url: /3d-model/action-figure-with-brown-hair-glasses-green-shirt-beige-shorts-hol-ca29601e-115e-40ab-bd41-d8c8dc7fb4a8
+                - 'img "3d model: action figure with brown hair glasses green shirt beige shorts hol" [ref=e185]'
+              - link [ref=e186] [cursor=pointer]:
+                - /url: /3d-model/sakura-character-model-with-black-and-pink-outfit-front-side-and-bac-2b92c72e-0b3f-436a-924c-535b459c2395
+                - 'img "3d model: Sakura character model with black and pink outfit front side and bac" [ref=e187]'
+              - link [ref=e188] [cursor=pointer]:
+                - /url: /3d-model/boxer-character-with-black-gloves-and-shorts-female-figure-athletic-ec58f279-1dfb-4ca5-98ea-5c0c74b19b66
+                - 'img "3d model: boxer character with black gloves and shorts female figure athletic" [ref=e189]'
+              - link [ref=e190] [cursor=pointer]:
+                - /url: /3d-model/pink-flexible-humanoid-figure-with-long-limbs-green-eyes-teal-access-70332c00-a5e7-456a-be99-1e30e56a2c64
+                - 'img "3d model: pink flexible humanoid figure with long limbs green eyes teal access" [ref=e191]'
+              - link [ref=e192] [cursor=pointer]:
+                - /url: /3d-model/pink-and-gold-volleyball-trophy-with-2026-liga-ibarretena-93c50234-5962-4e49-89c8-bee48f7d7fe6
+                - 'img "3d model: pink and gold volleyball trophy with 2026 Liga Ibarretena" [ref=e193]'
+  - region "Notifications alt+T":
+    - list

@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    background-color: #0C0C0C;
+    color: #D7E2EA;
+    font-family: 'Kanit', sans-serif;
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: #0C0C0C;
+    color: #D7E2EA;
+    font-family: 'Kanit', sans-serif;
+    overflow-x: clip;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  #root {
+    background-color: #0C0C0C;
+  }
+
+  ::selection {
+    background: rgba(215, 226, 234, 0.3);
+    color: #FFFFFF;
+  }
+}
+
+/* Hero Heading Gradient Class */
+.hero-heading {
+  background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Contact Button Custom Styling */
+.contact-btn {
+  background: linear-gradient(123deg, #18011F 7%, #B600A8 37%, #7621B0 72%, #BE4C00 100%);
+  box-shadow: 0px 4px 4px rgba(181, 1, 167, 0.25), 4px 4px 12px #7721B1 inset;
+  outline: 2px solid white;
+  outline-offset: -3px;
+}
+
+/* Continuous Infinite Skills Marquee */
+@keyframes continuous-marquee-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes continuous-marquee-right {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0); }
+}
+
+.skills-marquee-left {
+  display: flex;
+  width: max-content;
+  animation: continuous-marquee-left 32s linear infinite;
+  will-change: transform;
+}
+
+.skills-marquee-right {
+  display: flex;
+  width: max-content;
+  animation: continuous-marquee-right 32s linear infinite;
+  will-change: transform;
+}
+
+.skills-marquee-left:hover,
+.skills-marquee-right:hover {
+  animation-play-state: paused;
+}
+
+/* Thought Cloud Bubble Styling */
+.thought-cloud {
+  background: rgba(18, 22, 32, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1.5px solid rgba(56, 189, 248, 0.35);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), inset 0 1px 1px rgba(255, 255, 255, 0.15);
+  border-radius: 28px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0C0C0C;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}

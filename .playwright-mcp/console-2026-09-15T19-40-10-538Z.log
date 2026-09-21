@@ -1,0 +1,8 @@
+[    9313ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  188599ms] [WARNING] Image with src "/projects/cashbuddy/dashboard.png" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[  823883ms] [INFO] Launched external handler for 'mailto:nilangekardivyesh@gmail.com'. @ http://localhost:3000/:0
+[  826545ms] [INFO] Launched external handler for 'mailto:nilangekardivyesh@gmail.com'. @ http://localhost:3000/:0
+[  826983ms] [INFO] Launched external handler for 'mailto:nilangekardivyesh@gmail.com'. @ http://localhost:3000/:0
+[  827148ms] [INFO] Launched external handler for 'mailto:nilangekardivyesh@gmail.com'. @ http://localhost:3000/:0
+[  845055ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  845317ms] [LOG] [Fast Refresh] done in 262ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43

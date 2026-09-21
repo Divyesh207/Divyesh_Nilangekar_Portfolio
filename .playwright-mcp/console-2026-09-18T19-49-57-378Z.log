@@ -1,0 +1,17 @@
+[    3043ms] [LOG] [plugin-timing] auth: 0.2ms user: 20.8ms total: 21.0ms @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/BMlNMxUS.js:3
+[    3128ms] [INFO] [Server Request] https://api.tripo3d.ai/v2/studio/marketing/detail?locale=en - 21ms; traceparent: 00-f06a751c2bd19c4dffa3be29f38c959f-2760f8dbd25c7478-01 @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/DT61C6Tz.js:13
+[    3128ms] [INFO] [Server Request] micro:/tripo.community.api.content.ContentService/GetItem - 31ms; traceparent: 00-d014ed8983d21f797fc5b45e6b466831-7bb2b5368fe09903-01 @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/DT61C6Tz.js:13
+[    3128ms] [INFO] [Server Request] https://api.tripo3d.ai/v2/studio/project/detail/v3/6cebfba9-e4be-418d-a493-503998030150?locale=en - 89ms; traceparent: 00-1ac93c4356859cf30db40a30243f956e-f26a753efe24d0eb-01 @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/DT61C6Tz.js:13
+[    3128ms] [INFO] [Server Request] https://api.tripo3d.ai/v2/studio/project/related_models/6cebfba9-e4be-418d-a493-503998030150?limit=10&locale=en - 110ms; traceparent: 00-bc48ef02f7e9f10f4f365bd8cd0b0d08-5061e4da79824aaa-01 @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/DT61C6Tz.js:13
+[    3203ms] [ERROR] Not signed in with the identity provider. @ https://studio.tripo3d.ai/3d-model/blue-and-silver-robot-with-a-large-square-head-glowing-cyan-eyes-and-6cebfba9-e4be-418d-a493-503998030150:0
+[    3270ms] [WARNING] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/BaKS06TB.js:0
+[    3286ms] [WARNING] camera-controls: `verticalDragToForward` was removed. Use `mouseButtons.left = CameraControls.ACTION.SCREEN_PAN` instead. @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/BjUmFb2G.js:44
+[    3287ms] [WARNING] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/BaKS06TB.js:0
+[    5060ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://connect.facebook.net/en_US/fbevents.js:203
+[    7156ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://msapi.tripo3d.ai/ms/web/api:0
+[    7160ms] [WARNING] [@base/request] micro request error [/tripo.user_lifecycle.api.resource_slot.ResourceSlotService/GetResourceSlots] FetchError: [POST] "https://msapi.tripo3d.ai/ms/web/api": 401 
+    at async o (https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/UcPCa63P.js:1:6795)
+    at async Object.<anonymous> (https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/DT61C6Tz.js:14:348238)
+    at async J8 (https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/DT61C6Tz.js:53:246433) @ https://tripo-webapp-assets.tripo3d.ai/studio-prod/_nuxt/DT61C6Tz.js:13
+[   15071ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:87
+[   22968ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D19VM8BC77UEHH7Q4BG0&lib=ttq:0

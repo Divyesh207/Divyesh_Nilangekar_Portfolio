@@ -1,0 +1,478 @@
+- main [ref=e2]:
+  - navigation [ref=e3]:
+    - link "Divyesh Nilangekar / creative dev" [ref=e4] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e6]: Divyesh Nilangekar
+      - generic [ref=e7]: / creative dev
+    - generic [ref=e8]:
+      - link "About" [ref=e9] [cursor=pointer]:
+        - /url: "#about"
+      - link "Experience" [ref=e10] [cursor=pointer]:
+        - /url: "#experience"
+      - link "Projects" [ref=e11] [cursor=pointer]:
+        - /url: "#projects"
+      - link "Learning" [ref=e12] [cursor=pointer]:
+        - /url: "#education"
+      - link "Skills" [ref=e13] [cursor=pointer]:
+        - /url: "#skills"
+      - link "Contact" [ref=e14] [cursor=pointer]:
+        - /url: "#contact"
+    - link "CV" [ref=e16] [cursor=pointer]:
+      - /url: /docs/resume.pdf
+  - generic [ref=e23]:
+    - generic [ref=e24]: Open for Engineering Roles & Freelance Collabs
+    - generic [ref=e28]:
+      - generic [ref=e29]: Creative Developer & AI/ML Engineer
+      - heading "Divyesh Nilangekar" [level=1] [ref=e30]
+    - paragraph [ref=e31]: I design and build intelligent web platforms and high-throughput backend systems. Driven by minimal aesthetics and rock-solid architecture, I transform complex engineering problems into clean, high-performance software.
+    - generic [ref=e32]:
+      - link "Explore Selected Work" [ref=e33] [cursor=pointer]:
+        - /url: "#projects"
+      - link "Get in Touch" [ref=e38] [cursor=pointer]:
+        - /url: mailto:nilangekardivyesh@gmail.com
+    - generic [ref=e43]: Move cursor across the hero canvas to reveal project preview trail
+  - generic [ref=e47]:
+    - generic [ref=e48]:
+      - generic [ref=e49]: ✦
+      - heading "About Me" [level=2] [ref=e50]
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - paragraph [ref=e53]: Based in Pune, India, I specialize in architecting intelligent full-stack applications, machine learning workflows, and responsive digital products. With an academic background in Artificial Intelligence and Machine Learning (graduating with 91.06% aggregate distinction), I combine backend engineering depth in Python and FastAPI with modern, fluid web frontends in Next.js and TypeScript. When I'm not coding, I explore generative AI models and research published systems.
+        - generic [ref=e54]:
+          - generic [ref=e55]: Pune, Maharashtra, India
+          - generic [ref=e60]: "Focus: AI/ML Systems, Scalable Cloud APIs & Modern Interactive Web"
+      - generic [ref=e66]:
+        - generic [ref=e67]: Academic Distinction
+        - paragraph [ref=e72]: "Diploma in AI & ML with 91.06% aggregate under MSBTE. Published research author in IJPREMS (DOI: 10.58257/IJPREMS51878)."
+        - generic [ref=e73]: Engineering Stack
+        - paragraph [ref=e79]: Python, FastAPI, Next.js, React, PostgreSQL, Docker, and Scikit-learn machine learning pipelines.
+  - generic [ref=e81]:
+    - generic [ref=e82]:
+      - generic [ref=e83]: ✦
+      - heading "My Experience" [level=2] [ref=e84]
+    - generic [ref=e85]:
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - heading "Lead Architect & AI Researcher" [level=3] [ref=e91]
+            - generic [ref=e92]: Project Lead
+          - generic [ref=e93]: 2024 – 2026
+        - link "CashBuddy Platform (IJPREMS Published)" [ref=e98] [cursor=pointer]:
+          - /url: https://cashbuddy-one.vercel.app/
+        - paragraph [ref=e107]: "Designed and authored an AI-powered personal finance management ecosystem published in IJPREMS (DOI: 10.58257/IJPREMS51878). Engineered automated bank SMS transaction parser using AI ('Magic Import'), peer-to-peer balance ledger, and high-performance FastAPI backends with PostgreSQL."
+        - generic [ref=e108]:
+          - generic [ref=e109]: FastAPI
+          - generic [ref=e110]: Python
+          - generic [ref=e111]: React
+          - generic [ref=e112]: PostgreSQL
+          - generic [ref=e113]: JWT
+          - generic [ref=e114]: AI Parsing
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - heading "Full-Stack Software Lead" [level=3] [ref=e120]
+            - generic [ref=e121]: Project Lead
+          - generic [ref=e122]: 2024 – 2025
+        - link "EduFlow Academic Systems" [ref=e127] [cursor=pointer]:
+          - /url: https://eduflow-frontend-rho.vercel.app/
+        - paragraph [ref=e136]: Architected multi-tier institutional management portal with role-based authentication (Student, Teacher, Admin). Implemented attendance analytics engine, automated assignment originality verification pipelines, and dynamic institution health score dashboards.
+        - generic [ref=e137]:
+          - generic [ref=e138]: React
+          - generic [ref=e139]: FastAPI
+          - generic [ref=e140]: Python
+          - generic [ref=e141]: PostgreSQL
+          - generic [ref=e142]: Data Analytics
+      - generic [ref=e145]:
+        - generic [ref=e146]:
+          - generic [ref=e147]:
+            - heading "Machine Learning & NLP Engineer" [level=3] [ref=e148]
+            - generic [ref=e149]: Freelance
+          - generic [ref=e150]: 2024 – Present
+        - link "Independent Client & Research Projects" [ref=e155] [cursor=pointer]:
+          - /url: https://github.com/Divyesh207
+        - paragraph [ref=e164]: Engineered automated resume classification engine using NLP text processing, TF-IDF vectorization, and Logistic Regression models. Delivered modular web applications and custom RESTful API integrations for clients.
+        - generic [ref=e165]:
+          - generic [ref=e166]: Scikit-learn
+          - generic [ref=e167]: NLP
+          - generic [ref=e168]: TF-IDF
+          - generic [ref=e169]: Python
+          - generic [ref=e170]: REST APIs
+      - generic [ref=e173]:
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - heading "Frontend & Creative Developer" [level=3] [ref=e176]
+            - generic [ref=e177]: Freelance
+          - generic [ref=e178]: 2023 – Present
+        - link "Self-Employed / Open Source" [ref=e183] [cursor=pointer]:
+          - /url: https://github.com/Divyesh207
+        - paragraph [ref=e192]: Building high-aesthetic, performant web applications with Next.js, Tailwind CSS, GSAP animations, and Framer Motion. Focused on responsive design, micro-interactions, accessibility, and clean component architecture.
+        - generic [ref=e193]:
+          - generic [ref=e194]: Next.js
+          - generic [ref=e195]: TypeScript
+          - generic [ref=e196]: Tailwind CSS
+          - generic [ref=e197]: GSAP
+          - generic [ref=e198]: Framer Motion
+  - generic [ref=e200]:
+    - generic [ref=e201]:
+      - generic [ref=e202]:
+        - generic [ref=e203]: ✦
+        - heading "Some Visuals" [level=2] [ref=e204]
+      - generic [ref=e205]: 4 Selected Projects
+    - generic [ref=e206]:
+      - generic [ref=e207] [cursor=pointer]:
+        - generic [ref=e208]:
+          - img "CashBuddy" [ref=e209]
+          - generic [ref=e211]: Inspect
+        - generic [ref=e216]:
+          - generic [ref=e217]:
+            - generic [ref=e218]: AI-Powered Personal Finance Platform
+            - heading "CashBuddy" [level=3] [ref=e223]
+            - paragraph [ref=e224]: Full-stack AI-driven personal finance application with smart budgeting, savings goals, peer expense ledger, and Magic Import AI to parse bank SMS messages.
+          - generic [ref=e225]:
+            - generic [ref=e226]: FastAPI
+            - generic [ref=e227]: Python
+            - generic [ref=e228]: React
+            - generic [ref=e229]: PostgreSQL
+            - generic [ref=e230]: "+2"
+      - generic [ref=e231] [cursor=pointer]:
+        - generic [ref=e232]:
+          - img "EduFlow" [ref=e233]
+          - generic [ref=e235]: Inspect
+        - generic [ref=e240]:
+          - generic [ref=e241]:
+            - generic [ref=e242]: Unified Academic Management Ecosystem
+            - heading "EduFlow" [level=3] [ref=e247]
+            - paragraph [ref=e248]: Role-based academic management platform featuring real-time attendance analytics, institutional health score algorithms, and assignment evaluation pipelines.
+          - generic [ref=e249]:
+            - generic [ref=e250]: React
+            - generic [ref=e251]: FastAPI
+            - generic [ref=e252]: Python
+            - generic [ref=e253]: PostgreSQL
+            - generic [ref=e254]: "+1"
+      - generic [ref=e255] [cursor=pointer]:
+        - generic [ref=e256]:
+          - img "AI Resume Screener" [ref=e257]
+          - generic [ref=e259]: Inspect
+        - generic [ref=e264]:
+          - generic [ref=e265]:
+            - generic [ref=e266]: NLP Classification Pipeline
+            - heading "AI Resume Screener" [level=3] [ref=e271]
+            - paragraph [ref=e272]: Natural Language Processing system using TF-IDF vectorization and Logistic Regression to screen and rank candidate resumes against role requirements.
+          - generic [ref=e273]:
+            - generic [ref=e274]: Python
+            - generic [ref=e275]: Scikit-learn
+            - generic [ref=e276]: NLP
+            - generic [ref=e277]: Pandas
+            - generic [ref=e278]: "+1"
+      - generic [ref=e279] [cursor=pointer]:
+        - generic [ref=e280]:
+          - img "Interactive Assessment Engine" [ref=e281]
+          - generic [ref=e283]: Inspect
+        - generic [ref=e288]:
+          - generic [ref=e289]:
+            - generic [ref=e290]: Modular Web Quiz Platform
+            - heading "Interactive Assessment Engine" [level=3] [ref=e295]
+            - paragraph [ref=e296]: Responsive quiz testing application featuring timed sessions, category selection, instant scoring algorithms, and performance breakdown visualizations.
+          - generic [ref=e297]:
+            - generic [ref=e298]: JavaScript
+            - generic [ref=e299]: React
+            - generic [ref=e300]: Tailwind CSS
+            - generic [ref=e301]: HTML5
+  - generic [ref=e303]:
+    - generic [ref=e304]:
+      - generic [ref=e305]: ✦
+      - heading "My Learning Curve" [level=2] [ref=e306]
+    - generic [ref=e307]:
+      - generic [ref=e310]:
+        - generic [ref=e311]:
+          - generic [ref=e312]:
+            - heading "B.Tech in Artificial Intelligence & Data Science" [level=3] [ref=e313]
+            - generic [ref=e314]: Direct Second Year
+          - generic [ref=e315]: 2026 – 2028 (Pursuing)
+        - link "D. Y. Patil Pratishthan's College of Engineering, Akurdi, Pune" [ref=e320] [cursor=pointer]:
+          - /url: https://www.dypcoeakurdi.ac.in/
+        - paragraph [ref=e329]: Advanced undergraduate curriculum focusing on Machine Learning Systems, Distributed Architectures, Deep Learning, Big Data Engineering, and High-Performance Cloud Computing.
+        - list [ref=e330]:
+          - listitem [ref=e331]: Department of Artificial Intelligence and Data Science
+          - listitem [ref=e332]: Specializing in Scalable AI Deployments & System Design
+      - generic [ref=e335]:
+        - generic [ref=e336]:
+          - generic [ref=e337]:
+            - heading "Diploma in Artificial Intelligence & Machine Learning" [level=3] [ref=e338]
+            - generic [ref=e339]: 91.06% Distinction
+          - generic [ref=e340]: 2023 – 2026
+        - link "D. Y. Patil Polytechnic, Ambi, Pune (MSBTE)" [ref=e345] [cursor=pointer]:
+          - /url: https://msbte.org.in/
+        - paragraph [ref=e354]: Graduated with First Class with Distinction (Aggregate 91.06%, 1548/1700 marks). Completed comprehensive coursework in Big Data Analytics, Image Processing, Data Warehousing & Mining, and Mobile Application Development.
+        - list [ref=e355]:
+          - listitem [ref=e356]: First Class with Distinction (91.06% Aggregate)
+          - listitem [ref=e357]: Authored Capstone Project and Research Paper on AI Personal Finance (CashBuddy)
+      - generic [ref=e360]:
+        - generic [ref=e361]:
+          - generic [ref=e362]:
+            - heading "Peer-Reviewed Research Publication (IJPREMS)" [level=3] [ref=e363]
+            - generic [ref=e364]: "DOI: 10.58257/IJPREMS51878"
+          - generic [ref=e365]: March 2026
+        - link "International Journal of Progressive Research in Engineering Management and Science" [ref=e370] [cursor=pointer]:
+          - /url: https://doi.org/10.58257/IJPREMS51878
+        - paragraph [ref=e379]: "Published research paper titled 'CASHBUDDY: An AI Driven Personal Finance Management System' (Volume 06, Issue 03, March 2026). Paper ID: IJPREMS260300003670."
+      - generic [ref=e382]:
+        - generic [ref=e383]:
+          - generic [ref=e384]:
+            - heading "1st Rank — Innovative Business Idea Presentation" [level=3] [ref=e385]
+            - generic [ref=e386]: 1st Place Winner
+          - generic [ref=e387]: February 2025
+        - link "PCET's Pimpri Chinchwad Polytechnic, Pune" [ref=e392] [cursor=pointer]:
+          - /url: https://www.pcpolytechnic.com/
+        - paragraph [ref=e401]: Secured 1st Rank among 50+ competing teams presenting an AI-based operational automation framework during the annual State-Level Technical Symposium 2024-25.
+      - generic [ref=e404]:
+        - generic [ref=e405]:
+          - generic [ref=e406]:
+            - heading "Mathematics for Machine Learning & Specialized Certifications" [level=3] [ref=e407]
+            - generic [ref=e408]: Verified Credentials
+          - generic [ref=e409]: 2024 – 2026
+        - link "Udemy & Microsoft / LinkedIn Learning" [ref=e414] [cursor=pointer]:
+          - /url: https://www.udemy.com/
+        - paragraph [ref=e423]: Completed deep technical coursework in Linear Algebra, Vector Calculus, Multivariate Statistics for Machine Learning, Generative AI for Productivity, and Object-Oriented System Foundations.
+  - generic [ref=e425]:
+    - generic [ref=e426]:
+      - generic [ref=e427]: ✦
+      - heading "My Skills" [level=2] [ref=e428]
+    - generic [ref=e429]:
+      - button "All Skills (20)" [ref=e430] [cursor=pointer]
+      - button "AI & Machine Learning" [ref=e431] [cursor=pointer]
+      - button "Backend & Systems" [ref=e432] [cursor=pointer]
+      - button "Frontend & Creative UI" [ref=e433] [cursor=pointer]
+      - button "Cloud, Tools & Workflow" [ref=e434] [cursor=pointer]
+    - generic [ref=e435]:
+      - generic [ref=e436]: Python
+      - generic [ref=e439]: FastAPI
+      - generic [ref=e442]: TypeScript
+      - generic [ref=e445]: Next.js
+      - generic [ref=e448]: React
+      - generic [ref=e451]: PostgreSQL
+      - generic [ref=e454]: Machine Learning
+      - generic [ref=e457]: Scikit-learn
+      - generic [ref=e460]: NLP & TF-IDF
+      - generic [ref=e463]: Tailwind CSS
+      - generic [ref=e466]: GSAP
+      - generic [ref=e469]: Framer Motion
+      - generic [ref=e472]: Docker
+      - generic [ref=e475]: Git & GitHub
+      - generic [ref=e478]: REST APIs
+      - generic [ref=e481]: SQL
+      - generic [ref=e484]: Data Structures
+      - generic [ref=e487]: Generative AI
+      - generic [ref=e490]: Vercel
+      - generic [ref=e493]: Linux
+    - generic [ref=e496]:
+      - generic [ref=e497]: Core Tooling
+      - generic [ref=e504]:
+        - generic [ref=e505]:
+          - generic [ref=e506]: ✦
+          - generic [ref=e507]: Python
+        - generic [ref=e508]:
+          - generic [ref=e509]: ✦
+          - generic [ref=e510]: FastAPI
+        - generic [ref=e511]:
+          - generic [ref=e512]: ✦
+          - generic [ref=e513]: TypeScript
+        - generic [ref=e514]:
+          - generic [ref=e515]: ✦
+          - generic [ref=e516]: Next.js
+        - generic [ref=e517]:
+          - generic [ref=e518]: ✦
+          - generic [ref=e519]: React
+        - generic [ref=e520]:
+          - generic [ref=e521]: ✦
+          - generic [ref=e522]: PostgreSQL
+        - generic [ref=e523]:
+          - generic [ref=e524]: ✦
+          - generic [ref=e525]: Machine Learning
+        - generic [ref=e526]:
+          - generic [ref=e527]: ✦
+          - generic [ref=e528]: Scikit-learn
+        - generic [ref=e529]:
+          - generic [ref=e530]: ✦
+          - generic [ref=e531]: NLP & TF-IDF
+        - generic [ref=e532]:
+          - generic [ref=e533]: ✦
+          - generic [ref=e534]: Tailwind CSS
+        - generic [ref=e535]:
+          - generic [ref=e536]: ✦
+          - generic [ref=e537]: GSAP
+        - generic [ref=e538]:
+          - generic [ref=e539]: ✦
+          - generic [ref=e540]: Framer Motion
+        - generic [ref=e541]:
+          - generic [ref=e542]: ✦
+          - generic [ref=e543]: Docker
+        - generic [ref=e544]:
+          - generic [ref=e545]: ✦
+          - generic [ref=e546]: Git & GitHub
+        - generic [ref=e547]:
+          - generic [ref=e548]: ✦
+          - generic [ref=e549]: REST APIs
+        - generic [ref=e550]:
+          - generic [ref=e551]: ✦
+          - generic [ref=e552]: SQL
+        - generic [ref=e553]:
+          - generic [ref=e554]: ✦
+          - generic [ref=e555]: Data Structures
+        - generic [ref=e556]:
+          - generic [ref=e557]: ✦
+          - generic [ref=e558]: Generative AI
+        - generic [ref=e559]:
+          - generic [ref=e560]: ✦
+          - generic [ref=e561]: Vercel
+        - generic [ref=e562]:
+          - generic [ref=e563]: ✦
+          - generic [ref=e564]: Linux
+        - generic [ref=e565]:
+          - generic [ref=e566]: ✦
+          - generic [ref=e567]: Python
+        - generic [ref=e568]:
+          - generic [ref=e569]: ✦
+          - generic [ref=e570]: FastAPI
+        - generic [ref=e571]:
+          - generic [ref=e572]: ✦
+          - generic [ref=e573]: TypeScript
+        - generic [ref=e574]:
+          - generic [ref=e575]: ✦
+          - generic [ref=e576]: Next.js
+        - generic [ref=e577]:
+          - generic [ref=e578]: ✦
+          - generic [ref=e579]: React
+        - generic [ref=e580]:
+          - generic [ref=e581]: ✦
+          - generic [ref=e582]: PostgreSQL
+        - generic [ref=e583]:
+          - generic [ref=e584]: ✦
+          - generic [ref=e585]: Machine Learning
+        - generic [ref=e586]:
+          - generic [ref=e587]: ✦
+          - generic [ref=e588]: Scikit-learn
+        - generic [ref=e589]:
+          - generic [ref=e590]: ✦
+          - generic [ref=e591]: NLP & TF-IDF
+        - generic [ref=e592]:
+          - generic [ref=e593]: ✦
+          - generic [ref=e594]: Tailwind CSS
+        - generic [ref=e595]:
+          - generic [ref=e596]: ✦
+          - generic [ref=e597]: GSAP
+        - generic [ref=e598]:
+          - generic [ref=e599]: ✦
+          - generic [ref=e600]: Framer Motion
+        - generic [ref=e601]:
+          - generic [ref=e602]: ✦
+          - generic [ref=e603]: Docker
+        - generic [ref=e604]:
+          - generic [ref=e605]: ✦
+          - generic [ref=e606]: Git & GitHub
+        - generic [ref=e607]:
+          - generic [ref=e608]: ✦
+          - generic [ref=e609]: REST APIs
+        - generic [ref=e610]:
+          - generic [ref=e611]: ✦
+          - generic [ref=e612]: SQL
+        - generic [ref=e613]:
+          - generic [ref=e614]: ✦
+          - generic [ref=e615]: Data Structures
+        - generic [ref=e616]:
+          - generic [ref=e617]: ✦
+          - generic [ref=e618]: Generative AI
+        - generic [ref=e619]:
+          - generic [ref=e620]: ✦
+          - generic [ref=e621]: Vercel
+        - generic [ref=e622]:
+          - generic [ref=e623]: ✦
+          - generic [ref=e624]: Linux
+  - generic [ref=e625]:
+    - generic [ref=e626]: Technologies, Frameworks & Core Systems
+    - generic [ref=e627]:
+      - generic [ref=e628]:
+        - img "Next.js" [ref=e631]
+        - img "React" [ref=e634]
+        - img "TypeScript" [ref=e637]
+        - img "Python" [ref=e640]
+        - img "FastAPI" [ref=e643]
+        - img "PostgreSQL" [ref=e646]
+        - img "Next.js" [ref=e649]
+        - img "React" [ref=e652]
+        - img "TypeScript" [ref=e655]
+        - img "Python" [ref=e658]
+        - img "FastAPI" [ref=e661]
+        - img "PostgreSQL" [ref=e664]
+        - img "Next.js" [ref=e667]
+        - img "React" [ref=e670]
+        - img "TypeScript" [ref=e673]
+        - img "Python" [ref=e676]
+        - img "FastAPI" [ref=e679]
+        - img "PostgreSQL" [ref=e682]
+      - generic [ref=e683]:
+        - img "Tailwind CSS" [ref=e686]
+        - img "Docker" [ref=e689]
+        - img "Git" [ref=e692]
+        - img "GSAP" [ref=e695]
+        - img "PyTorch" [ref=e698]
+        - img "Vercel" [ref=e701]
+        - img "Tailwind CSS" [ref=e704]
+        - img "Docker" [ref=e707]
+        - img "Git" [ref=e710]
+        - img "GSAP" [ref=e713]
+        - img "PyTorch" [ref=e716]
+        - img "Vercel" [ref=e719]
+        - img "Tailwind CSS" [ref=e722]
+        - img "Docker" [ref=e725]
+        - img "Git" [ref=e728]
+        - img "GSAP" [ref=e731]
+        - img "PyTorch" [ref=e734]
+        - img "Vercel" [ref=e737]
+  - generic [ref=e740]:
+    - generic [ref=e741]:
+      - generic [ref=e743]: 0+
+      - heading "Projects & Prototypes" [level=3] [ref=e744]
+      - paragraph [ref=e745]: Production web apps, research implementations & tools
+    - generic [ref=e746]:
+      - generic [ref=e748]: 0%
+      - heading "Diploma Aggregate Distinction" [level=3] [ref=e749]
+      - paragraph [ref=e750]: MSBTE First Class with Distinction (1548/1700 marks)
+    - generic [ref=e751]:
+      - generic [ref=e753]: 0+
+      - heading "Git Commits & Deployments" [level=3] [ref=e754]
+      - paragraph [ref=e755]: Active open source contributions and production pushes
+  - generic [ref=e757]:
+    - generic [ref=e758]:
+      - generic [ref=e759]:
+        - generic [ref=e760]: ✦
+        - heading "GitHub Activity" [level=2] [ref=e761]
+      - generic [ref=e762]:
+        - generic [ref=e763]:
+          - button "Last Year" [ref=e764] [cursor=pointer]
+          - button "2026" [ref=e765] [cursor=pointer]
+          - button "2025" [ref=e766] [cursor=pointer]
+          - button "2024" [ref=e767] [cursor=pointer]
+          - button "2023" [ref=e768] [cursor=pointer]
+        - link "@Divyesh207" [ref=e769] [cursor=pointer]:
+          - /url: https://github.com/Divyesh207
+    - article [ref=e780]
+  - generic [ref=e1204]:
+    - generic [ref=e1205]: Saying Hello from Pune, Maharashtra, India
+    - generic [ref=e1208]:
+      - generic [ref=e1209]: Have a project or opportunity?
+      - link "Let's get in contact!" [ref=e1210] [cursor=pointer]:
+        - /url: mailto:nilangekardivyesh@gmail.com
+      - generic [ref=e1215]: nilangekardivyesh@gmail.com · +91 7057311330
+    - generic [ref=e1216]:
+      - generic [ref=e1217]:
+        - link "LinkedIn" [ref=e1218] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/divyesh-nilangekar-bb68632b7/
+        - link "GitHub" [ref=e1224] [cursor=pointer]:
+          - /url: https://github.com/Divyesh207
+        - link "X / Twitter" [ref=e1229] [cursor=pointer]:
+          - /url: https://twitter.com
+        - link "Resume PDF" [ref=e1233] [cursor=pointer]:
+          - /url: /docs/resume.pdf
+      - generic [ref=e1238]: © 2026 Divyesh Nilangekar. All rights reserved.
+  - button "Ask Divyesh Nilangekar's AI" [ref=e1240] [cursor=pointer]

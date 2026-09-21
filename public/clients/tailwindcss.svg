@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="10" fill="#12151c" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="26" cy="24" r="7" fill="#38bdf8" fill-opacity="0.9" />
+  <circle cx="26" cy="24" r="11" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1.5" />
+  <text x="44" y="29" fill="#e4e4e7" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" letter-spacing="0.02em">Tailwind CSS</text>
+</svg>

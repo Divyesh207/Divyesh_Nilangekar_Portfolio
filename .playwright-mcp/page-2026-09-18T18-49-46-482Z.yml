@@ -1,0 +1,108 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - navigation [ref=e6]:
+        - link [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "tripo-logo" [ref=e10]
+        - button [ref=e11] [cursor=pointer]:
+          - link [ref=e12]:
+            - /url: /workspace/generate
+            - paragraph [ref=e13]: 3D Workspace
+        - generic [ref=e16]:
+          - link [ref=e17] [cursor=pointer]:
+            - /url: /
+            - paragraph [ref=e18]: Home
+          - link [ref=e19] [cursor=pointer]:
+            - /url: /assets
+            - paragraph [ref=e20]: Assets
+          - link [ref=e21] [cursor=pointer]:
+            - /url: /creator-hub
+            - paragraph [ref=e22]: Creator Hub
+          - button [ref=e23] [cursor=pointer]:
+            - paragraph [ref=e24]: Resources
+      - generic [ref=e26]:
+        - button "Sign up/Log in" [ref=e27] [cursor=pointer]
+        - link "Help Center" [ref=e29] [cursor=pointer]:
+          - /url: https://www.tripo3d.ai/en/help
+        - generic [ref=e31] [cursor=pointer]: View Plans
+        - button [ref=e33] [cursor=pointer]:
+          - paragraph [ref=e35]: DCC Bridge
+          - region [ref=e36]:
+            - generic [ref=e38]:
+              - group [ref=e39]
+              - group [ref=e41]
+              - group [ref=e43]
+              - group [ref=e45]
+              - group [ref=e47]
+              - group [ref=e49]
+              - group [ref=e51]
+              - group [ref=e53]
+              - group [ref=e55]
+              - group [ref=e57]
+    - main [ref=e63]:
+      - generic [ref=e64]:
+        - 'img "Professional Man 3d Model: Man In Navy Suit With White Shirt And Brown Belt | Tripo AI" [ref=e65]'
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - button "打开 nilangekardivyesh 的个人主页" [ref=e72] [cursor=pointer]:
+                - img "nilangekardivyesh avatar" [ref=e75]
+              - generic [ref=e76]:
+                - button "nilangekardivyesh" [ref=e77] [cursor=pointer]
+                - button "Follow" [ref=e79] [cursor=pointer]
+            - generic [ref=e84]:
+              - heading "professional man 3d model" [level=1] [ref=e87]
+              - generic [ref=e88]:
+                - link "character" [ref=e89] [cursor=pointer]:
+                  - /url: /3d-model-gallery/character
+                - link "rendering" [ref=e90] [cursor=pointer]:
+                  - /url: /3d-model-gallery/rendering
+                - link "realistic" [ref=e91] [cursor=pointer]:
+                  - /url: /3d-model-gallery/realistic
+              - generic [ref=e92]:
+                - generic [ref=e93]: Input
+                - generic [ref=e95] [cursor=pointer]:
+                  - img "Input image for 3D model generation" [ref=e96]
+                  - button "Preview image" [ref=e97]
+              - generic [ref=e98]:
+                - generic [ref=e99]:
+                  - generic [ref=e100]: Prompt
+                  - button "复制 Prompt" [ref=e101] [cursor=pointer]
+                - paragraph [ref=e103]: man in navy suit with white shirt and brown belt
+              - paragraph [ref=e104]: 4K·PBR·v3.1-20260211
+          - generic [ref=e105]:
+            - generic [ref=e106]: Related Models
+            - generic [ref=e107]:
+              - link [ref=e108] [cursor=pointer]:
+                - /url: /3d-model/red-satin-bow-with-loops-and-tails-glossy-surface-texture-966ae830-3520-4535-b7bd-19c52ec29f77
+                - 'img "3d model: red satin bow with loops and tails glossy surface texture" [ref=e109]'
+              - link [ref=e110] [cursor=pointer]:
+                - /url: /3d-model/apartment-building-with-weathered-concrete-facade-and-multiple-balconi-af59161a-c8e4-472f-841f-d51f3fcf4e91
+                - 'img "3d model: apartment building with weathered concrete facade and multiple balconi" [ref=e111]'
+              - link [ref=e112] [cursor=pointer]:
+                - /url: /3d-model/ornate-bracelet-with-black-enamel-and-intricate-floral-scroll-engravin-cc85fc58-af66-458d-a541-31e5264762f2
+                - 'img "3d model: ornate bracelet with black enamel and intricate floral scroll engravin" [ref=e113]'
+              - link [ref=e114] [cursor=pointer]:
+                - /url: /3d-model/ornate-hindu-deity-statue-with-dancing-figure-swirling-ornamental-mot-4172553c-020c-467f-95ba-de5e7f63a187
+                - 'img "3d model: ornate hindu deity statue with dancing figure swirling ornamental mot" [ref=e115]'
+              - link [ref=e116] [cursor=pointer]:
+                - /url: /3d-model/fantasy-warrior-with-rugged-red-hair-and-beard-tattered-layered-robes-f690f270-f8de-4849-9c68-8b2b27313137
+                - 'img "3d model: fantasy warrior with rugged red hair and beard tattered layered robes" [ref=e117]'
+              - link [ref=e118] [cursor=pointer]:
+                - /url: /3d-model/adult-man-in-gray-suit-and-teal-shirt-posing-indoors-wearing-formal-at-38f390e3-bbdb-404c-9d89-2d40bc82ad70
+                - 'img "3d model: adult man in gray suit and teal shirt posing indoors wearing formal at" [ref=e119]'
+              - link [ref=e120] [cursor=pointer]:
+                - /url: /3d-model/chibi-witch-figure-with-purple-hat-and-flower-gothic-style-outfit-bl-7e87377b-44b2-403c-ad3e-ef2d81d45448
+                - 'img "3d model: chibi witch figure with purple hat and flower gothic style outfit bl" [ref=e121]'
+              - link [ref=e122] [cursor=pointer]:
+                - /url: /3d-model/group-of-cartoonish-family-dolls-with-glossy-surfaces-seated-together-c496d031-3a0c-401a-b106-23bfca27e431
+                - 'img "3d model: group of cartoonish family dolls with glossy surfaces seated together" [ref=e123]'
+              - link [ref=e124] [cursor=pointer]:
+                - /url: /3d-model/white-fox-with-fluffy-fur-and-realistic-features-7a33752b-05aa-4ecd-aa7a-ce9c4acb8f49
+                - 'img "3d model: white fox with fluffy fur and realistic features" [ref=e125]'
+              - link [ref=e126] [cursor=pointer]:
+                - /url: /3d-model/corgi-puppy-wearing-a-striped-party-hat-442484ca-d8b2-4203-83ab-91586812ee2a
+                - 'img "3d model: corgi puppy wearing a striped party hat" [ref=e127]'
+  - region "Notifications alt+T":
+    - list

@@ -1,0 +1,1441 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - generic: DIVYESH
+    - navigation [ref=e5]:
+      - button "About" [ref=e6] [cursor=pointer]
+      - button "Skills" [ref=e7] [cursor=pointer]
+      - button "Projects" [ref=e8] [cursor=pointer]
+      - button "Contact" [ref=e9] [cursor=pointer]
+    - heading "Hi, i'm divyesh" [level=1] [ref=e12]
+    - generic [ref=e16]:
+      - generic:
+        - img "Divyesh Nilangekar - 3D Avatar"
+      - generic: Interactive 3D Avatar · Drag to inspect
+    - generic [ref=e18]:
+      - paragraph [ref=e20]: a backend & ai/ml engineer driven by crafting high-performance and intelligent systems
+      - generic [ref=e21]:
+        - link "Resume" [ref=e22] [cursor=pointer]:
+          - /url: /docs/resume.pdf
+        - button "Contact Me" [ref=e28] [cursor=pointer]
+  - generic [ref=e30]:
+    - generic [ref=e32]:
+      - generic [ref=e33]: // Technical Arsenal & Live Activity
+      - heading "Skills & GitHub" [level=2] [ref=e34]
+      - paragraph [ref=e35]: Real-world engineering tools, continuous contribution streaks, and production backend architecture.
+    - generic [ref=e36]:
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]: 🐍
+          - generic [ref=e41]:
+            - generic [ref=e42]: Python
+            - generic [ref=e43]: Primary
+        - generic [ref=e44]:
+          - generic [ref=e45]: ⚡
+          - generic [ref=e46]:
+            - generic [ref=e47]: FastAPI
+            - generic [ref=e48]: Production
+        - generic [ref=e49]:
+          - generic [ref=e50]: 🐘
+          - generic [ref=e51]:
+            - generic [ref=e52]: PostgreSQL
+            - generic [ref=e53]: Database
+        - generic [ref=e54]:
+          - generic [ref=e55]: 🔗
+          - generic [ref=e56]:
+            - generic [ref=e57]: SQLAlchemy
+            - generic [ref=e58]: ORM
+        - generic [ref=e59]:
+          - generic [ref=e60]: 🛡️
+          - generic [ref=e61]:
+            - generic [ref=e62]: Pydantic
+            - generic [ref=e63]: Validation
+        - generic [ref=e64]:
+          - generic [ref=e65]: 🌐
+          - generic [ref=e66]:
+            - generic [ref=e67]: Django
+            - generic [ref=e68]: Full-Stack
+        - generic [ref=e69]:
+          - generic [ref=e70]: 📡
+          - generic [ref=e71]:
+            - generic [ref=e72]: REST APIs
+            - generic [ref=e73]: Architecture
+        - generic [ref=e74]:
+          - generic [ref=e75]: 📐
+          - generic [ref=e76]:
+            - generic [ref=e77]: Domain-Driven Design
+            - generic [ref=e78]: Patterns
+        - generic [ref=e79]:
+          - generic [ref=e80]: 🐳
+          - generic [ref=e81]:
+            - generic [ref=e82]: Docker
+            - generic [ref=e83]: Containers
+        - generic [ref=e84]:
+          - generic [ref=e85]: 🐧
+          - generic [ref=e86]:
+            - generic [ref=e87]: Linux
+            - generic [ref=e88]: Environment
+        - generic [ref=e89]:
+          - generic [ref=e90]: 🐍
+          - generic [ref=e91]:
+            - generic [ref=e92]: Python
+            - generic [ref=e93]: Primary
+        - generic [ref=e94]:
+          - generic [ref=e95]: ⚡
+          - generic [ref=e96]:
+            - generic [ref=e97]: FastAPI
+            - generic [ref=e98]: Production
+        - generic [ref=e99]:
+          - generic [ref=e100]: 🐘
+          - generic [ref=e101]:
+            - generic [ref=e102]: PostgreSQL
+            - generic [ref=e103]: Database
+        - generic [ref=e104]:
+          - generic [ref=e105]: 🔗
+          - generic [ref=e106]:
+            - generic [ref=e107]: SQLAlchemy
+            - generic [ref=e108]: ORM
+        - generic [ref=e109]:
+          - generic [ref=e110]: 🛡️
+          - generic [ref=e111]:
+            - generic [ref=e112]: Pydantic
+            - generic [ref=e113]: Validation
+        - generic [ref=e114]:
+          - generic [ref=e115]: 🌐
+          - generic [ref=e116]:
+            - generic [ref=e117]: Django
+            - generic [ref=e118]: Full-Stack
+        - generic [ref=e119]:
+          - generic [ref=e120]: 📡
+          - generic [ref=e121]:
+            - generic [ref=e122]: REST APIs
+            - generic [ref=e123]: Architecture
+        - generic [ref=e124]:
+          - generic [ref=e125]: 📐
+          - generic [ref=e126]:
+            - generic [ref=e127]: Domain-Driven Design
+            - generic [ref=e128]: Patterns
+        - generic [ref=e129]:
+          - generic [ref=e130]: 🐳
+          - generic [ref=e131]:
+            - generic [ref=e132]: Docker
+            - generic [ref=e133]: Containers
+        - generic [ref=e134]:
+          - generic [ref=e135]: 🐧
+          - generic [ref=e136]:
+            - generic [ref=e137]: Linux
+            - generic [ref=e138]: Environment
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - generic [ref=e142]: 🤖
+          - generic [ref=e143]:
+            - generic [ref=e144]: Scikit-learn
+            - generic [ref=e145]: ML Modeling
+        - generic [ref=e146]:
+          - generic [ref=e147]: 🐼
+          - generic [ref=e148]:
+            - generic [ref=e149]: Pandas
+            - generic [ref=e150]: Data Analysis
+        - generic [ref=e151]:
+          - generic [ref=e152]: 💬
+          - generic [ref=e153]:
+            - generic [ref=e154]: NLP
+            - generic [ref=e155]: Text Processing
+        - generic [ref=e156]:
+          - generic [ref=e157]: 📊
+          - generic [ref=e158]:
+            - generic [ref=e159]: TF-IDF
+            - generic [ref=e160]: Vectorization
+        - generic [ref=e161]:
+          - generic [ref=e162]: 📈
+          - generic [ref=e163]:
+            - generic [ref=e164]: Logistic Regression
+            - generic [ref=e165]: Classification
+        - generic [ref=e166]:
+          - generic [ref=e167]: 🧪
+          - generic [ref=e168]:
+            - generic [ref=e169]: Pytest
+            - generic [ref=e170]: Testing
+        - generic [ref=e171]:
+          - generic [ref=e172]: ⚡
+          - generic [ref=e173]:
+            - generic [ref=e174]: Ruff
+            - generic [ref=e175]: Linting
+        - generic [ref=e176]:
+          - generic [ref=e177]: 🎯
+          - generic [ref=e178]:
+            - generic [ref=e179]: MyPy
+            - generic [ref=e180]: Type Safety
+        - generic [ref=e181]:
+          - generic [ref=e182]: 🐙
+          - generic [ref=e183]:
+            - generic [ref=e184]: Git & GitHub
+            - generic [ref=e185]: Version Control
+        - generic [ref=e186]:
+          - generic [ref=e187]: ☁️
+          - generic [ref=e188]:
+            - generic [ref=e189]: Render & Vercel
+            - generic [ref=e190]: Cloud Deploy
+        - generic [ref=e191]:
+          - generic [ref=e192]: 🤖
+          - generic [ref=e193]:
+            - generic [ref=e194]: Scikit-learn
+            - generic [ref=e195]: ML Modeling
+        - generic [ref=e196]:
+          - generic [ref=e197]: 🐼
+          - generic [ref=e198]:
+            - generic [ref=e199]: Pandas
+            - generic [ref=e200]: Data Analysis
+        - generic [ref=e201]:
+          - generic [ref=e202]: 💬
+          - generic [ref=e203]:
+            - generic [ref=e204]: NLP
+            - generic [ref=e205]: Text Processing
+        - generic [ref=e206]:
+          - generic [ref=e207]: 📊
+          - generic [ref=e208]:
+            - generic [ref=e209]: TF-IDF
+            - generic [ref=e210]: Vectorization
+        - generic [ref=e211]:
+          - generic [ref=e212]: 📈
+          - generic [ref=e213]:
+            - generic [ref=e214]: Logistic Regression
+            - generic [ref=e215]: Classification
+        - generic [ref=e216]:
+          - generic [ref=e217]: 🧪
+          - generic [ref=e218]:
+            - generic [ref=e219]: Pytest
+            - generic [ref=e220]: Testing
+        - generic [ref=e221]:
+          - generic [ref=e222]: ⚡
+          - generic [ref=e223]:
+            - generic [ref=e224]: Ruff
+            - generic [ref=e225]: Linting
+        - generic [ref=e226]:
+          - generic [ref=e227]: 🎯
+          - generic [ref=e228]:
+            - generic [ref=e229]: MyPy
+            - generic [ref=e230]: Type Safety
+        - generic [ref=e231]:
+          - generic [ref=e232]: 🐙
+          - generic [ref=e233]:
+            - generic [ref=e234]: Git & GitHub
+            - generic [ref=e235]: Version Control
+        - generic [ref=e236]:
+          - generic [ref=e237]: ☁️
+          - generic [ref=e238]:
+            - generic [ref=e239]: Render & Vercel
+            - generic [ref=e240]: Cloud Deploy
+    - generic [ref=e241]:
+      - generic [ref=e247]:
+        - heading "Backend & APIs" [level=3] [ref=e248]
+        - paragraph [ref=e249]: FastAPI, Django, PostgreSQL, SQLAlchemy, Pydantic, Domain-Driven Design for scalable microservices.
+      - generic [ref=e262]:
+        - heading "AI & Machine Learning" [level=3] [ref=e263]
+        - paragraph [ref=e264]: Scikit-learn, Pandas, NLP, TF-IDF vectorization, and Logistic Regression classification pipelines.
+      - generic [ref=e270]:
+        - heading "Testing & Quality" [level=3] [ref=e271]
+        - paragraph [ref=e272]: Rigorous test coverage with Pytest, Ruff fast linting, and MyPy strict static type checking.
+      - generic [ref=e279]:
+        - heading "Git & Leadership" [level=3] [ref=e280]
+        - paragraph [ref=e281]: UWACI Tech & Team Lead, PR audits, Git feature-branch workflows, and collaborative delivery.
+    - generic [ref=e282]:
+      - generic [ref=e283]:
+        - heading "Live GitHub Streak & Contributions" [level=3] [ref=e287]
+        - generic [ref=e288]:
+          - generic [ref=e289]:
+            - button "Last Year" [ref=e290] [cursor=pointer]
+            - button "2026" [ref=e291] [cursor=pointer]
+            - button "2025" [ref=e292] [cursor=pointer]
+            - button "2024" [ref=e293] [cursor=pointer]
+          - link "@Divyesh207" [ref=e294] [cursor=pointer]:
+            - /url: https://github.com/Divyesh207
+      - article [ref=e305]
+      - generic [ref=e728]:
+        - generic [ref=e729]:
+          - img "Divyesh Nilangekar GitHub Streak"
+        - generic [ref=e730]:
+          - generic [ref=e731]:
+            - generic [ref=e732]:
+              - heading "Top Languages & Codebase Share" [level=4] [ref=e738]
+              - generic [ref=e739]: Live Breakdown
+            - generic [ref=e740]:
+              - 'generic "Python: 74.2%" [ref=e741]'
+              - 'generic "PostgreSQL / SQL: 13.8%" [ref=e742]'
+              - 'generic "TypeScript: 7.5%" [ref=e743]'
+              - 'generic "Shell & Docker: 4.5%" [ref=e744]'
+            - generic [ref=e745]:
+              - generic [ref=e746]:
+                - generic [ref=e747]: Python
+                - generic [ref=e750]: 74.2%
+              - generic [ref=e751]:
+                - generic [ref=e752]: PostgreSQL
+                - generic [ref=e755]: 13.8%
+              - generic [ref=e756]:
+                - generic [ref=e757]: TypeScript
+                - generic [ref=e760]: 7.5%
+              - generic [ref=e761]:
+                - generic [ref=e762]: Shell / Docker
+                - generic [ref=e765]: 4.5%
+          - generic [ref=e766]:
+            - generic [ref=e767]: Production backend & ML architecture
+            - generic [ref=e768]: Verified Repository Metrics
+  - generic [ref=e770]:
+    - generic:
+      - generic:
+        - img "Decorative Moon"
+    - generic:
+      - generic:
+        - img "Decorative 3D Shape"
+    - generic:
+      - generic:
+        - img "Decorative Lego Icon"
+    - generic:
+      - generic:
+        - img "Decorative 3D Group"
+    - generic [ref=e771]:
+      - heading "About me" [level=2] [ref=e773]
+      - paragraph [ref=e774]:
+        - generic [ref=e775]:
+          - generic [ref=e776]:
+            - text: P
+            - generic [ref=e777]: P
+          - generic [ref=e778]:
+            - text: "y"
+            - generic [ref=e779]: "y"
+          - generic [ref=e780]:
+            - text: t
+            - generic [ref=e781]: t
+          - generic [ref=e782]:
+            - text: h
+            - generic [ref=e783]: h
+          - generic [ref=e784]:
+            - text: o
+            - generic [ref=e785]: o
+          - generic [ref=e786]:
+            - text: "n"
+            - generic [ref=e787]: "n"
+        - generic [ref=e789]:
+          - generic [ref=e790]:
+            - text: b
+            - generic [ref=e791]: b
+          - generic [ref=e792]:
+            - text: a
+            - generic [ref=e793]: a
+          - generic [ref=e794]:
+            - text: c
+            - generic [ref=e795]: c
+          - generic [ref=e796]:
+            - text: k
+            - generic [ref=e797]: k
+          - generic [ref=e798]:
+            - text: e
+            - generic [ref=e799]: e
+          - generic [ref=e800]:
+            - text: "n"
+            - generic [ref=e801]: "n"
+          - generic [ref=e802]:
+            - text: d
+            - generic [ref=e803]: d
+        - generic [ref=e805]:
+          - generic [ref=e806]:
+            - text: a
+            - generic [ref=e807]: a
+          - generic [ref=e808]:
+            - text: "n"
+            - generic [ref=e809]: "n"
+          - generic [ref=e810]:
+            - text: d
+            - generic [ref=e811]: d
+        - generic [ref=e813]:
+          - generic [ref=e814]:
+            - text: A
+            - generic [ref=e815]: A
+          - generic [ref=e816]:
+            - text: I
+            - generic [ref=e817]: I
+          - generic [ref=e818]:
+            - text: /
+            - generic [ref=e819]: /
+          - generic [ref=e820]:
+            - text: M
+            - generic [ref=e821]: M
+          - generic [ref=e822]:
+            - text: L
+            - generic [ref=e823]: L
+        - generic [ref=e825]:
+          - generic [ref=e826]:
+            - text: e
+            - generic [ref=e827]: e
+          - generic [ref=e828]:
+            - text: "n"
+            - generic [ref=e829]: "n"
+          - generic [ref=e830]:
+            - text: g
+            - generic [ref=e831]: g
+          - generic [ref=e832]:
+            - text: i
+            - generic [ref=e833]: i
+          - generic [ref=e834]:
+            - text: "n"
+            - generic [ref=e835]: "n"
+          - generic [ref=e836]:
+            - text: e
+            - generic [ref=e837]: e
+          - generic [ref=e838]:
+            - text: e
+            - generic [ref=e839]: e
+          - generic [ref=e840]:
+            - text: r
+            - generic [ref=e841]: r
+        - generic [ref=e843]:
+          - generic [ref=e844]:
+            - text: w
+            - generic [ref=e845]: w
+          - generic [ref=e846]:
+            - text: i
+            - generic [ref=e847]: i
+          - generic [ref=e848]:
+            - text: t
+            - generic [ref=e849]: t
+          - generic [ref=e850]:
+            - text: h
+            - generic [ref=e851]: h
+        - generic [ref=e853]:
+          - generic [ref=e854]:
+            - text: h
+            - generic [ref=e855]: h
+          - generic [ref=e856]:
+            - text: a
+            - generic [ref=e857]: a
+          - generic [ref=e858]:
+            - text: "n"
+            - generic [ref=e859]: "n"
+          - generic [ref=e860]:
+            - text: d
+            - generic [ref=e861]: d
+          - generic [ref=e862]:
+            - text: s
+            - generic [ref=e863]: s
+          - generic [ref=e864]:
+            - text: "-"
+            - generic [ref=e865]: "-"
+          - generic [ref=e866]:
+            - text: o
+            - generic [ref=e867]: o
+          - generic [ref=e868]:
+            - text: "n"
+            - generic [ref=e869]: "n"
+        - generic [ref=e871]:
+          - generic [ref=e872]:
+            - text: e
+            - generic [ref=e873]: e
+          - generic [ref=e874]:
+            - text: x
+            - generic [ref=e875]: x
+          - generic [ref=e876]:
+            - text: p
+            - generic [ref=e877]: p
+          - generic [ref=e878]:
+            - text: e
+            - generic [ref=e879]: e
+          - generic [ref=e880]:
+            - text: r
+            - generic [ref=e881]: r
+          - generic [ref=e882]:
+            - text: i
+            - generic [ref=e883]: i
+          - generic [ref=e884]:
+            - text: e
+            - generic [ref=e885]: e
+          - generic [ref=e886]:
+            - text: "n"
+            - generic [ref=e887]: "n"
+          - generic [ref=e888]:
+            - text: c
+            - generic [ref=e889]: c
+          - generic [ref=e890]:
+            - text: e
+            - generic [ref=e891]: e
+        - generic [ref=e893]:
+          - generic [ref=e894]:
+            - text: b
+            - generic [ref=e895]: b
+          - generic [ref=e896]:
+            - text: u
+            - generic [ref=e897]: u
+          - generic [ref=e898]:
+            - text: i
+            - generic [ref=e899]: i
+          - generic [ref=e900]:
+            - text: l
+            - generic [ref=e901]: l
+          - generic [ref=e902]:
+            - text: d
+            - generic [ref=e903]: d
+          - generic [ref=e904]:
+            - text: i
+            - generic [ref=e905]: i
+          - generic [ref=e906]:
+            - text: "n"
+            - generic [ref=e907]: "n"
+          - generic [ref=e908]:
+            - text: g
+            - generic [ref=e909]: g
+        - generic [ref=e911]:
+          - generic [ref=e912]:
+            - text: F
+            - generic [ref=e913]: F
+          - generic [ref=e914]:
+            - text: a
+            - generic [ref=e915]: a
+          - generic [ref=e916]:
+            - text: s
+            - generic [ref=e917]: s
+          - generic [ref=e918]:
+            - text: t
+            - generic [ref=e919]: t
+          - generic [ref=e920]:
+            - text: A
+            - generic [ref=e921]: A
+          - generic [ref=e922]:
+            - text: P
+            - generic [ref=e923]: P
+          - generic [ref=e924]:
+            - text: I
+            - generic [ref=e925]: I
+        - generic [ref=e927]:
+          - generic [ref=e928]:
+            - text: a
+            - generic [ref=e929]: a
+          - generic [ref=e930]:
+            - text: "n"
+            - generic [ref=e931]: "n"
+          - generic [ref=e932]:
+            - text: d
+            - generic [ref=e933]: d
+        - generic [ref=e935]:
+          - generic [ref=e936]:
+            - text: P
+            - generic [ref=e937]: P
+          - generic [ref=e938]:
+            - text: o
+            - generic [ref=e939]: o
+          - generic [ref=e940]:
+            - text: s
+            - generic [ref=e941]: s
+          - generic [ref=e942]:
+            - text: t
+            - generic [ref=e943]: t
+          - generic [ref=e944]:
+            - text: g
+            - generic [ref=e945]: g
+          - generic [ref=e946]:
+            - text: r
+            - generic [ref=e947]: r
+          - generic [ref=e948]:
+            - text: e
+            - generic [ref=e949]: e
+          - generic [ref=e950]:
+            - text: S
+            - generic [ref=e951]: S
+          - generic [ref=e952]:
+            - text: Q
+            - generic [ref=e953]: Q
+          - generic [ref=e954]:
+            - text: L
+            - generic [ref=e955]: L
+        - generic [ref=e957]:
+          - generic [ref=e958]:
+            - text: b
+            - generic [ref=e959]: b
+          - generic [ref=e960]:
+            - text: a
+            - generic [ref=e961]: a
+          - generic [ref=e962]:
+            - text: c
+            - generic [ref=e963]: c
+          - generic [ref=e964]:
+            - text: k
+            - generic [ref=e965]: k
+          - generic [ref=e966]:
+            - text: e
+            - generic [ref=e967]: e
+          - generic [ref=e968]:
+            - text: "n"
+            - generic [ref=e969]: "n"
+          - generic [ref=e970]:
+            - text: d
+            - generic [ref=e971]: d
+          - generic [ref=e972]:
+            - text: s
+            - generic [ref=e973]: s
+        - generic [ref=e975]:
+          - generic [ref=e976]:
+            - text: a
+            - generic [ref=e977]: a
+          - generic [ref=e978]:
+            - text: "n"
+            - generic [ref=e979]: "n"
+          - generic [ref=e980]:
+            - text: d
+            - generic [ref=e981]: d
+        - generic [ref=e983]:
+          - generic [ref=e984]:
+            - text: s
+            - generic [ref=e985]: s
+          - generic [ref=e986]:
+            - text: e
+            - generic [ref=e987]: e
+          - generic [ref=e988]:
+            - text: r
+            - generic [ref=e989]: r
+          - generic [ref=e990]:
+            - text: v
+            - generic [ref=e991]: v
+          - generic [ref=e992]:
+            - text: i
+            - generic [ref=e993]: i
+          - generic [ref=e994]:
+            - text: "n"
+            - generic [ref=e995]: "n"
+          - generic [ref=e996]:
+            - text: g
+            - generic [ref=e997]: g
+        - generic [ref=e999]:
+          - generic [ref=e1000]:
+            - text: a
+            - generic [ref=e1001]: a
+          - generic [ref=e1002]:
+            - text: s
+            - generic [ref=e1003]: s
+        - generic [ref=e1005]:
+          - generic [ref=e1006]:
+            - text: T
+            - generic [ref=e1007]: T
+          - generic [ref=e1008]:
+            - text: e
+            - generic [ref=e1009]: e
+          - generic [ref=e1010]:
+            - text: c
+            - generic [ref=e1011]: c
+          - generic [ref=e1012]:
+            - text: h
+            - generic [ref=e1013]: h
+        - generic [ref=e1016]:
+          - text: "&"
+          - generic [ref=e1017]: "&"
+        - generic [ref=e1019]:
+          - generic [ref=e1020]:
+            - text: T
+            - generic [ref=e1021]: T
+          - generic [ref=e1022]:
+            - text: e
+            - generic [ref=e1023]: e
+          - generic [ref=e1024]:
+            - text: a
+            - generic [ref=e1025]: a
+          - generic [ref=e1026]:
+            - text: m
+            - generic [ref=e1027]: m
+        - generic [ref=e1029]:
+          - generic [ref=e1030]:
+            - text: L
+            - generic [ref=e1031]: L
+          - generic [ref=e1032]:
+            - text: e
+            - generic [ref=e1033]: e
+          - generic [ref=e1034]:
+            - text: a
+            - generic [ref=e1035]: a
+          - generic [ref=e1036]:
+            - text: d
+            - generic [ref=e1037]: d
+        - generic [ref=e1039]:
+          - generic [ref=e1040]:
+            - text: f
+            - generic [ref=e1041]: f
+          - generic [ref=e1042]:
+            - text: o
+            - generic [ref=e1043]: o
+          - generic [ref=e1044]:
+            - text: r
+            - generic [ref=e1045]: r
+        - generic [ref=e1047]:
+          - generic [ref=e1048]:
+            - text: P
+            - generic [ref=e1049]: P
+          - generic [ref=e1050]:
+            - text: i
+            - generic [ref=e1051]: i
+          - generic [ref=e1052]:
+            - text: p
+            - generic [ref=e1053]: p
+          - generic [ref=e1054]:
+            - text: e
+            - generic [ref=e1055]: e
+        - generic [ref=e1058]:
+          - text: "3"
+          - generic [ref=e1059]: "3"
+        - generic [ref=e1061]:
+          - generic [ref=e1062]:
+            - text: a
+            - generic [ref=e1063]: a
+          - generic [ref=e1064]:
+            - text: t
+            - generic [ref=e1065]: t
+        - generic [ref=e1067]:
+          - generic [ref=e1068]:
+            - text: U
+            - generic [ref=e1069]: U
+          - generic [ref=e1070]:
+            - text: W
+            - generic [ref=e1071]: W
+          - generic [ref=e1072]:
+            - text: A
+            - generic [ref=e1073]: A
+          - generic [ref=e1074]:
+            - text: C
+            - generic [ref=e1075]: C
+          - generic [ref=e1076]:
+            - text: I
+            - generic [ref=e1077]: I
+          - generic [ref=e1078]:
+            - text: .
+            - generic [ref=e1079]: .
+        - generic [ref=e1081]:
+          - generic [ref=e1082]:
+            - text: S
+            - generic [ref=e1083]: S
+          - generic [ref=e1084]:
+            - text: k
+            - generic [ref=e1085]: k
+          - generic [ref=e1086]:
+            - text: i
+            - generic [ref=e1087]: i
+          - generic [ref=e1088]:
+            - text: l
+            - generic [ref=e1089]: l
+          - generic [ref=e1090]:
+            - text: l
+            - generic [ref=e1091]: l
+          - generic [ref=e1092]:
+            - text: e
+            - generic [ref=e1093]: e
+          - generic [ref=e1094]:
+            - text: d
+            - generic [ref=e1095]: d
+        - generic [ref=e1097]:
+          - generic [ref=e1098]:
+            - text: i
+            - generic [ref=e1099]: i
+          - generic [ref=e1100]:
+            - text: "n"
+            - generic [ref=e1101]: "n"
+        - generic [ref=e1103]:
+          - generic [ref=e1104]:
+            - text: d
+            - generic [ref=e1105]: d
+          - generic [ref=e1106]:
+            - text: o
+            - generic [ref=e1107]: o
+          - generic [ref=e1108]:
+            - text: m
+            - generic [ref=e1109]: m
+          - generic [ref=e1110]:
+            - text: a
+            - generic [ref=e1111]: a
+          - generic [ref=e1112]:
+            - text: i
+            - generic [ref=e1113]: i
+          - generic [ref=e1114]:
+            - text: "n"
+            - generic [ref=e1115]: "n"
+          - generic [ref=e1116]:
+            - text: "-"
+            - generic [ref=e1117]: "-"
+          - generic [ref=e1118]:
+            - text: d
+            - generic [ref=e1119]: d
+          - generic [ref=e1120]:
+            - text: r
+            - generic [ref=e1121]: r
+          - generic [ref=e1122]:
+            - text: i
+            - generic [ref=e1123]: i
+          - generic [ref=e1124]:
+            - text: v
+            - generic [ref=e1125]: v
+          - generic [ref=e1126]:
+            - text: e
+            - generic [ref=e1127]: e
+          - generic [ref=e1128]:
+            - text: "n"
+            - generic [ref=e1129]: "n"
+        - generic [ref=e1131]:
+          - generic [ref=e1132]:
+            - text: A
+            - generic [ref=e1133]: A
+          - generic [ref=e1134]:
+            - text: P
+            - generic [ref=e1135]: P
+          - generic [ref=e1136]:
+            - text: I
+            - generic [ref=e1137]: I
+        - generic [ref=e1139]:
+          - generic [ref=e1140]:
+            - text: d
+            - generic [ref=e1141]: d
+          - generic [ref=e1142]:
+            - text: e
+            - generic [ref=e1143]: e
+          - generic [ref=e1144]:
+            - text: v
+            - generic [ref=e1145]: v
+          - generic [ref=e1146]:
+            - text: e
+            - generic [ref=e1147]: e
+          - generic [ref=e1148]:
+            - text: l
+            - generic [ref=e1149]: l
+          - generic [ref=e1150]:
+            - text: o
+            - generic [ref=e1151]: o
+          - generic [ref=e1152]:
+            - text: p
+            - generic [ref=e1153]: p
+          - generic [ref=e1154]:
+            - text: m
+            - generic [ref=e1155]: m
+          - generic [ref=e1156]:
+            - text: e
+            - generic [ref=e1157]: e
+          - generic [ref=e1158]:
+            - text: "n"
+            - generic [ref=e1159]: "n"
+          - generic [ref=e1160]:
+            - text: t
+            - generic [ref=e1161]: t
+          - generic [ref=e1162]:
+            - text: ","
+            - generic [ref=e1163]: ","
+        - generic [ref=e1165]:
+          - generic [ref=e1166]:
+            - text: m
+            - generic [ref=e1167]: m
+          - generic [ref=e1168]:
+            - text: a
+            - generic [ref=e1169]: a
+          - generic [ref=e1170]:
+            - text: c
+            - generic [ref=e1171]: c
+          - generic [ref=e1172]:
+            - text: h
+            - generic [ref=e1173]: h
+          - generic [ref=e1174]:
+            - text: i
+            - generic [ref=e1175]: i
+          - generic [ref=e1176]:
+            - text: "n"
+            - generic [ref=e1177]: "n"
+          - generic [ref=e1178]:
+            - text: e
+            - generic [ref=e1179]: e
+        - generic [ref=e1181]:
+          - generic [ref=e1182]:
+            - text: l
+            - generic [ref=e1183]: l
+          - generic [ref=e1184]:
+            - text: e
+            - generic [ref=e1185]: e
+          - generic [ref=e1186]:
+            - text: a
+            - generic [ref=e1187]: a
+          - generic [ref=e1188]:
+            - text: r
+            - generic [ref=e1189]: r
+          - generic [ref=e1190]:
+            - text: "n"
+            - generic [ref=e1191]: "n"
+          - generic [ref=e1192]:
+            - text: i
+            - generic [ref=e1193]: i
+          - generic [ref=e1194]:
+            - text: "n"
+            - generic [ref=e1195]: "n"
+          - generic [ref=e1196]:
+            - text: g
+            - generic [ref=e1197]: g
+        - generic [ref=e1199]:
+          - generic [ref=e1200]:
+            - text: p
+            - generic [ref=e1201]: p
+          - generic [ref=e1202]:
+            - text: i
+            - generic [ref=e1203]: i
+          - generic [ref=e1204]:
+            - text: p
+            - generic [ref=e1205]: p
+          - generic [ref=e1206]:
+            - text: e
+            - generic [ref=e1207]: e
+          - generic [ref=e1208]:
+            - text: l
+            - generic [ref=e1209]: l
+          - generic [ref=e1210]:
+            - text: i
+            - generic [ref=e1211]: i
+          - generic [ref=e1212]:
+            - text: "n"
+            - generic [ref=e1213]: "n"
+          - generic [ref=e1214]:
+            - text: e
+            - generic [ref=e1215]: e
+          - generic [ref=e1216]:
+            - text: s
+            - generic [ref=e1217]: s
+          - generic [ref=e1218]:
+            - text: ","
+            - generic [ref=e1219]: ","
+        - generic [ref=e1221]:
+          - generic [ref=e1222]:
+            - text: a
+            - generic [ref=e1223]: a
+          - generic [ref=e1224]:
+            - text: "n"
+            - generic [ref=e1225]: "n"
+          - generic [ref=e1226]:
+            - text: d
+            - generic [ref=e1227]: d
+        - generic [ref=e1229]:
+          - generic [ref=e1230]:
+            - text: p
+            - generic [ref=e1231]: p
+          - generic [ref=e1232]:
+            - text: r
+            - generic [ref=e1233]: r
+          - generic [ref=e1234]:
+            - text: o
+            - generic [ref=e1235]: o
+          - generic [ref=e1236]:
+            - text: d
+            - generic [ref=e1237]: d
+          - generic [ref=e1238]:
+            - text: u
+            - generic [ref=e1239]: u
+          - generic [ref=e1240]:
+            - text: c
+            - generic [ref=e1241]: c
+          - generic [ref=e1242]:
+            - text: t
+            - generic [ref=e1243]: t
+          - generic [ref=e1244]:
+            - text: i
+            - generic [ref=e1245]: i
+          - generic [ref=e1246]:
+            - text: o
+            - generic [ref=e1247]: o
+          - generic [ref=e1248]:
+            - text: "n"
+            - generic [ref=e1249]: "n"
+        - generic [ref=e1251]:
+          - generic [ref=e1252]:
+            - text: t
+            - generic [ref=e1253]: t
+          - generic [ref=e1254]:
+            - text: e
+            - generic [ref=e1255]: e
+          - generic [ref=e1256]:
+            - text: s
+            - generic [ref=e1257]: s
+          - generic [ref=e1258]:
+            - text: t
+            - generic [ref=e1259]: t
+        - generic [ref=e1261]:
+          - generic [ref=e1262]:
+            - text: w
+            - generic [ref=e1263]: w
+          - generic [ref=e1264]:
+            - text: o
+            - generic [ref=e1265]: o
+          - generic [ref=e1266]:
+            - text: r
+            - generic [ref=e1267]: r
+          - generic [ref=e1268]:
+            - text: k
+            - generic [ref=e1269]: k
+          - generic [ref=e1270]:
+            - text: f
+            - generic [ref=e1271]: f
+          - generic [ref=e1272]:
+            - text: l
+            - generic [ref=e1273]: l
+          - generic [ref=e1274]:
+            - text: o
+            - generic [ref=e1275]: o
+          - generic [ref=e1276]:
+            - text: w
+            - generic [ref=e1277]: w
+          - generic [ref=e1278]:
+            - text: s
+            - generic [ref=e1279]: s
+          - generic [ref=e1280]:
+            - text: .
+            - generic [ref=e1281]: .
+        - generic [ref=e1283]:
+          - generic [ref=e1284]:
+            - text: C
+            - generic [ref=e1285]: C
+          - generic [ref=e1286]:
+            - text: o
+            - generic [ref=e1287]: o
+          - generic [ref=e1288]:
+            - text: m
+            - generic [ref=e1289]: m
+          - generic [ref=e1290]:
+            - text: b
+            - generic [ref=e1291]: b
+          - generic [ref=e1292]:
+            - text: i
+            - generic [ref=e1293]: i
+          - generic [ref=e1294]:
+            - text: "n"
+            - generic [ref=e1295]: "n"
+          - generic [ref=e1296]:
+            - text: i
+            - generic [ref=e1297]: i
+          - generic [ref=e1298]:
+            - text: "n"
+            - generic [ref=e1299]: "n"
+          - generic [ref=e1300]:
+            - text: g
+            - generic [ref=e1301]: g
+        - generic [ref=e1303]:
+          - generic [ref=e1304]:
+            - text: p
+            - generic [ref=e1305]: p
+          - generic [ref=e1306]:
+            - text: r
+            - generic [ref=e1307]: r
+          - generic [ref=e1308]:
+            - text: a
+            - generic [ref=e1309]: a
+          - generic [ref=e1310]:
+            - text: c
+            - generic [ref=e1311]: c
+          - generic [ref=e1312]:
+            - text: t
+            - generic [ref=e1313]: t
+          - generic [ref=e1314]:
+            - text: i
+            - generic [ref=e1315]: i
+          - generic [ref=e1316]:
+            - text: c
+            - generic [ref=e1317]: c
+          - generic [ref=e1318]:
+            - text: a
+            - generic [ref=e1319]: a
+          - generic [ref=e1320]:
+            - text: l
+            - generic [ref=e1321]: l
+        - generic [ref=e1323]:
+          - generic [ref=e1324]:
+            - text: b
+            - generic [ref=e1325]: b
+          - generic [ref=e1326]:
+            - text: a
+            - generic [ref=e1327]: a
+          - generic [ref=e1328]:
+            - text: c
+            - generic [ref=e1329]: c
+          - generic [ref=e1330]:
+            - text: k
+            - generic [ref=e1331]: k
+          - generic [ref=e1332]:
+            - text: e
+            - generic [ref=e1333]: e
+          - generic [ref=e1334]:
+            - text: "n"
+            - generic [ref=e1335]: "n"
+          - generic [ref=e1336]:
+            - text: d
+            - generic [ref=e1337]: d
+        - generic [ref=e1339]:
+          - generic [ref=e1340]:
+            - text: o
+            - generic [ref=e1341]: o
+          - generic [ref=e1342]:
+            - text: w
+            - generic [ref=e1343]: w
+          - generic [ref=e1344]:
+            - text: "n"
+            - generic [ref=e1345]: "n"
+          - generic [ref=e1346]:
+            - text: e
+            - generic [ref=e1347]: e
+          - generic [ref=e1348]:
+            - text: r
+            - generic [ref=e1349]: r
+          - generic [ref=e1350]:
+            - text: s
+            - generic [ref=e1351]: s
+          - generic [ref=e1352]:
+            - text: h
+            - generic [ref=e1353]: h
+          - generic [ref=e1354]:
+            - text: i
+            - generic [ref=e1355]: i
+          - generic [ref=e1356]:
+            - text: p
+            - generic [ref=e1357]: p
+        - generic [ref=e1359]:
+          - generic [ref=e1360]:
+            - text: w
+            - generic [ref=e1361]: w
+          - generic [ref=e1362]:
+            - text: i
+            - generic [ref=e1363]: i
+          - generic [ref=e1364]:
+            - text: t
+            - generic [ref=e1365]: t
+          - generic [ref=e1366]:
+            - text: h
+            - generic [ref=e1367]: h
+        - generic [ref=e1369]:
+          - generic [ref=e1370]:
+            - text: t
+            - generic [ref=e1371]: t
+          - generic [ref=e1372]:
+            - text: e
+            - generic [ref=e1373]: e
+          - generic [ref=e1374]:
+            - text: c
+            - generic [ref=e1375]: c
+          - generic [ref=e1376]:
+            - text: h
+            - generic [ref=e1377]: h
+          - generic [ref=e1378]:
+            - text: "n"
+            - generic [ref=e1379]: "n"
+          - generic [ref=e1380]:
+            - text: i
+            - generic [ref=e1381]: i
+          - generic [ref=e1382]:
+            - text: c
+            - generic [ref=e1383]: c
+          - generic [ref=e1384]:
+            - text: a
+            - generic [ref=e1385]: a
+          - generic [ref=e1386]:
+            - text: l
+            - generic [ref=e1387]: l
+        - generic [ref=e1389]:
+          - generic [ref=e1390]:
+            - text: l
+            - generic [ref=e1391]: l
+          - generic [ref=e1392]:
+            - text: e
+            - generic [ref=e1393]: e
+          - generic [ref=e1394]:
+            - text: a
+            - generic [ref=e1395]: a
+          - generic [ref=e1396]:
+            - text: d
+            - generic [ref=e1397]: d
+          - generic [ref=e1398]:
+            - text: e
+            - generic [ref=e1399]: e
+          - generic [ref=e1400]:
+            - text: r
+            - generic [ref=e1401]: r
+          - generic [ref=e1402]:
+            - text: s
+            - generic [ref=e1403]: s
+          - generic [ref=e1404]:
+            - text: h
+            - generic [ref=e1405]: h
+          - generic [ref=e1406]:
+            - text: i
+            - generic [ref=e1407]: i
+          - generic [ref=e1408]:
+            - text: p
+            - generic [ref=e1409]: p
+        - generic [ref=e1411]:
+          - generic [ref=e1412]:
+            - text: t
+            - generic [ref=e1413]: t
+          - generic [ref=e1414]:
+            - text: o
+            - generic [ref=e1415]: o
+        - generic [ref=e1417]:
+          - generic [ref=e1418]:
+            - text: b
+            - generic [ref=e1419]: b
+          - generic [ref=e1420]:
+            - text: u
+            - generic [ref=e1421]: u
+          - generic [ref=e1422]:
+            - text: i
+            - generic [ref=e1423]: i
+          - generic [ref=e1424]:
+            - text: l
+            - generic [ref=e1425]: l
+          - generic [ref=e1426]:
+            - text: d
+            - generic [ref=e1427]: d
+        - generic [ref=e1429]:
+          - generic [ref=e1430]:
+            - text: s
+            - generic [ref=e1431]: s
+          - generic [ref=e1432]:
+            - text: t
+            - generic [ref=e1433]: t
+          - generic [ref=e1434]:
+            - text: r
+            - generic [ref=e1435]: r
+          - generic [ref=e1436]:
+            - text: i
+            - generic [ref=e1437]: i
+          - generic [ref=e1438]:
+            - text: k
+            - generic [ref=e1439]: k
+          - generic [ref=e1440]:
+            - text: i
+            - generic [ref=e1441]: i
+          - generic [ref=e1442]:
+            - text: "n"
+            - generic [ref=e1443]: "n"
+          - generic [ref=e1444]:
+            - text: g
+            - generic [ref=e1445]: g
+          - generic [ref=e1446]:
+            - text: ","
+            - generic [ref=e1447]: ","
+        - generic [ref=e1449]:
+          - generic [ref=e1450]:
+            - text: r
+            - generic [ref=e1451]: r
+          - generic [ref=e1452]:
+            - text: e
+            - generic [ref=e1453]: e
+          - generic [ref=e1454]:
+            - text: l
+            - generic [ref=e1455]: l
+          - generic [ref=e1456]:
+            - text: i
+            - generic [ref=e1457]: i
+          - generic [ref=e1458]:
+            - text: a
+            - generic [ref=e1459]: a
+          - generic [ref=e1460]:
+            - text: b
+            - generic [ref=e1461]: b
+          - generic [ref=e1462]:
+            - text: l
+            - generic [ref=e1463]: l
+          - generic [ref=e1464]:
+            - text: e
+            - generic [ref=e1465]: e
+        - generic [ref=e1467]:
+          - generic [ref=e1468]:
+            - text: s
+            - generic [ref=e1469]: s
+          - generic [ref=e1470]:
+            - text: o
+            - generic [ref=e1471]: o
+          - generic [ref=e1472]:
+            - text: f
+            - generic [ref=e1473]: f
+          - generic [ref=e1474]:
+            - text: t
+            - generic [ref=e1475]: t
+          - generic [ref=e1476]:
+            - text: w
+            - generic [ref=e1477]: w
+          - generic [ref=e1478]:
+            - text: a
+            - generic [ref=e1479]: a
+          - generic [ref=e1480]:
+            - text: r
+            - generic [ref=e1481]: r
+          - generic [ref=e1482]:
+            - text: e
+            - generic [ref=e1483]: e
+          - generic [ref=e1484]:
+            - text: .
+            - generic [ref=e1485]: .
+      - generic [ref=e1486]:
+        - generic [ref=e1487]: Tech & Team Lead at UWACI
+        - generic [ref=e1492]: Diploma AI/ML — 91.06% Distinction
+        - generic [ref=e1497]: B.Tech AI & Data Science (Pursuing)
+        - generic [ref=e1502]: Published Author (IJPREMS)
+      - button "Contact Me" [ref=e1507] [cursor=pointer]
+  - generic [ref=e1509]:
+    - heading "Skills & Expertise" [level=2] [ref=e1511]
+    - generic [ref=e1512]:
+      - generic [ref=e1513]:
+        - generic [ref=e1514]: "01"
+        - generic [ref=e1515]:
+          - heading "Backend & APIs" [level=3] [ref=e1516]
+          - paragraph [ref=e1517]: FastAPI, Django, Flask, REST APIs, Pydantic, SQLAlchemy, Domain-Driven Design. Architecting high-throughput microservices, timezone-aware trip intent models, and dependency-inversion contracts.
+          - generic [ref=e1518]:
+            - generic [ref=e1519]: FastAPI
+            - generic [ref=e1520]: Python
+            - generic [ref=e1521]: SQLAlchemy
+            - generic [ref=e1522]: Pydantic
+            - generic [ref=e1523]: REST APIs
+            - generic [ref=e1524]: DDD
+      - generic [ref=e1525]:
+        - generic [ref=e1526]: "02"
+        - generic [ref=e1527]:
+          - heading "Database Architecture" [level=3] [ref=e1528]
+          - paragraph [ref=e1529]: PostgreSQL, relational schema architecture, query optimization, and transaction modeling. Designing scalable entities, indexing strategies, and secure multi-tenant data isolation.
+          - generic [ref=e1530]:
+            - generic [ref=e1531]: PostgreSQL
+            - generic [ref=e1532]: Database Design
+            - generic [ref=e1533]: SQL
+            - generic [ref=e1534]: Indexing
+            - generic [ref=e1535]: Migrations
+      - generic [ref=e1536]:
+        - generic [ref=e1537]: "03"
+        - generic [ref=e1538]:
+          - heading "Machine Learning & NLP" [level=3] [ref=e1539]
+          - paragraph [ref=e1540]: Scikit-learn, Pandas, Natural Language Processing, TF-IDF vectorization, Logistic Regression. Engineering classification pipelines, feature transformers, and modular evaluation engines.
+          - generic [ref=e1541]:
+            - generic [ref=e1542]: Scikit-learn
+            - generic [ref=e1543]: Pandas
+            - generic [ref=e1544]: NLP
+            - generic [ref=e1545]: TF-IDF
+            - generic [ref=e1546]: Logistic Regression
+      - generic [ref=e1547]:
+        - generic [ref=e1548]: "04"
+        - generic [ref=e1549]:
+          - heading "Quality & Leadership" [level=3] [ref=e1550]
+          - paragraph [ref=e1551]: Tech & Team Lead at UWACI. Pytest test suites, Ruff linting, MyPy static type checking, PR audit workflows, and technical mentoring across distributed engineering sprints.
+          - generic [ref=e1552]:
+            - generic [ref=e1553]: Pytest
+            - generic [ref=e1554]: Ruff
+            - generic [ref=e1555]: MyPy
+            - generic [ref=e1556]: Code Reviews
+            - generic [ref=e1557]: PR Workflows
+            - generic [ref=e1558]: Git
+      - generic [ref=e1559]:
+        - generic [ref=e1560]: "05"
+        - generic [ref=e1561]:
+          - heading "Cloud & Deployment" [level=3] [ref=e1562]
+          - paragraph [ref=e1563]: Deploying high-availability web applications and APIs using Render, Vercel, and CI/CD pipelines. Bridging backend power with modern Next.js frontends.
+          - generic [ref=e1564]:
+            - generic [ref=e1565]: Render
+            - generic [ref=e1566]: Vercel
+            - generic [ref=e1567]: GitHub Actions
+            - generic [ref=e1568]: Next.js
+            - generic [ref=e1569]: Docker Basics
+    - generic [ref=e1570]:
+      - generic [ref=e1571]: // Full Engineering Tech Stack
+      - generic [ref=e1572]:
+        - generic [ref=e1573]: Python
+        - generic [ref=e1574]: SQL
+        - generic [ref=e1575]: FastAPI
+        - generic [ref=e1576]: PostgreSQL
+        - generic [ref=e1577]: SQLAlchemy
+        - generic [ref=e1578]: Pydantic
+        - generic [ref=e1579]: Django
+        - generic [ref=e1580]: Flask
+        - generic [ref=e1581]: REST APIs
+        - generic [ref=e1582]: Scikit-learn
+        - generic [ref=e1583]: Pandas
+        - generic [ref=e1584]: NLP
+        - generic [ref=e1585]: TF-IDF
+        - generic [ref=e1586]: Pytest
+        - generic [ref=e1587]: Ruff
+        - generic [ref=e1588]: MyPy
+        - generic [ref=e1589]: Git & GitHub
+        - generic [ref=e1590]: Render
+        - generic [ref=e1591]: Vercel
+        - generic [ref=e1592]: Domain-Driven Design
+        - generic [ref=e1593]: Data Structures
+        - generic [ref=e1594]: OOP
+  - generic [ref=e1596]:
+    - heading "Projects" [level=2] [ref=e1598]
+    - generic [ref=e1599]:
+      - generic [ref=e1601]:
+        - generic [ref=e1602]:
+          - generic [ref=e1603]:
+            - generic [ref=e1604]: "01"
+            - generic [ref=e1605]:
+              - generic [ref=e1606]: AI & Full-Stack / Research Paper
+              - heading "CashBuddy" [level=3] [ref=e1607]
+              - generic [ref=e1608]: Python · FastAPI · PostgreSQL · REST APIs · Render · Vercel
+          - link "Live Project" [ref=e1609] [cursor=pointer]:
+            - /url: https://github.com/Divyesh207/cashbuddy-backend
+        - generic [ref=e1610]:
+          - generic [ref=e1611]:
+            - img "CashBuddy preview 1" [ref=e1613]
+            - img "CashBuddy preview 2" [ref=e1615]
+          - img "CashBuddy main preview" [ref=e1617]
+      - generic [ref=e1619]:
+        - generic [ref=e1620]:
+          - generic [ref=e1621]:
+            - generic [ref=e1622]: "02"
+            - generic [ref=e1623]:
+              - generic [ref=e1624]: Academic Architecture / Platform
+              - heading "EduFlow" [level=3] [ref=e1625]
+              - generic [ref=e1626]: Python · FastAPI · PostgreSQL · React · Tailwind CSS
+          - link "Live Project" [ref=e1627] [cursor=pointer]:
+            - /url: https://github.com/Divyesh207
+        - generic [ref=e1628]:
+          - generic [ref=e1629]:
+            - img "EduFlow preview 1" [ref=e1631]
+            - img "EduFlow preview 2" [ref=e1633]
+          - img "EduFlow main preview" [ref=e1635]
+      - generic [ref=e1637]:
+        - generic [ref=e1638]:
+          - generic [ref=e1639]:
+            - generic [ref=e1640]: "03"
+            - generic [ref=e1641]:
+              - generic [ref=e1642]: Machine Learning / NLP Pipeline
+              - heading "AI Resume Screener" [level=3] [ref=e1643]
+              - generic [ref=e1644]: Python · Scikit-learn · Pandas · TF-IDF · Logistic Regression · CLI
+          - link "Live Project" [ref=e1645] [cursor=pointer]:
+            - /url: https://github.com/Divyesh207
+        - generic [ref=e1646]:
+          - generic [ref=e1647]:
+            - img "AI Resume Screener preview 1" [ref=e1649]
+            - img "AI Resume Screener preview 2" [ref=e1651]
+          - img "AI Resume Screener main preview" [ref=e1653]
+  - generic [ref=e1655]:
+    - generic: GET IN TOUCH
+    - heading "Contact" [level=2] [ref=e1657]
+    - paragraph [ref=e1659]: Open for full-time Software Engineering, Python Backend & AI/ML opportunities, and high-impact technical initiatives.
+    - generic [ref=e1660]:
+      - generic [ref=e1661]:
+        - generic [ref=e1666]: Email
+        - link "nilangekardivyesh@gmail.com" [ref=e1667] [cursor=pointer]:
+          - /url: mailto:nilangekardivyesh@gmail.com
+        - button "Copy" [ref=e1668] [cursor=pointer]
+      - generic [ref=e1673]:
+        - generic [ref=e1677]: Phone
+        - link "+91 7057311330" [ref=e1678] [cursor=pointer]:
+          - /url: tel:+917057311330
+        - generic [ref=e1679]: Pune, India
+      - generic [ref=e1680]:
+        - generic [ref=e1686]: LinkedIn
+        - link "divyesh-nilangekar" [ref=e1687] [cursor=pointer]:
+          - /url: https://linkedin.com/in/divyesh-nilangekar
+        - generic [ref=e1692]: Connect
+      - generic [ref=e1693]:
+        - generic [ref=e1698]: GitHub
+        - link "Divyesh207" [ref=e1699] [cursor=pointer]:
+          - /url: https://github.com/Divyesh207
+        - generic [ref=e1704]: Repositories
+    - generic [ref=e1705]:
+      - link "Send An Email" [ref=e1706] [cursor=pointer]:
+        - /url: mailto:nilangekardivyesh@gmail.com
+      - link "Download CV" [ref=e1711] [cursor=pointer]:
+        - /url: /docs/resume.pdf
+    - generic [ref=e1717]:
+      - generic [ref=e1718]: © 2026 Divyesh Nilangekar. All rights reserved.
+      - generic [ref=e1719]: Python Backend · AI/ML Systems · Pune, Maharashtra, India
+  - generic [ref=e1723]:
+    - generic [ref=e1724]: Pippo is dropping into the portfolio...
+    - button "Skip Intro ➔" [ref=e1727] [cursor=pointer]
+  - generic "Click Pippo to chat or ask questions!" [ref=e1729] [cursor=pointer]: Click Pippo to chat!
