@@ -1,6 +1,7 @@
 "use client";
 
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
+import dynamic from "next/dynamic";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Sparkles,
@@ -14,7 +15,28 @@ import {
   MessageCircle,
 } from "lucide-react";
 import { getPippoThought } from "@/data/pippoKnowledge";
-import { Pippo3DViewer } from "./Pippo3DViewer";
+
+// Transparent still rendered from the GLB with the viewer's exact camera and lights,
+// shown until the WebGL viewer has its model so the swap is seamless
+function PippoPlaceholder() {
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src="/images/pippo-placeholder.webp"
+      alt="Pippo"
+      width={175}
+      height={195}
+      decoding="async"
+      className="absolute inset-0 w-full h-full object-contain pointer-events-none select-none"
+    />
+  );
+}
+
+// Code-split the Three.js viewer so it stays off the critical path
+const Pippo3DViewer = dynamic(
+  () => import("./Pippo3DViewer").then((mod) => mod.Pippo3DViewer),
+  { ssr: false }
+);
 
 interface StoredThought {
   id: string;
@@ -37,6 +59,27 @@ export function PippoChatbot() {
   // Video state
   const videoRef = useRef<HTMLVideoElement>(null);
   const [videoFinished, setVideoFinished] = useState(false);
+
+  // Pippo's GLB waits until the intro clip is buffered (or the intro is closed),
+  // so the two don't fight over bandwidth on first load
+  const [shouldLoadPippo, setShouldLoadPippo] = useState(false);
+  const [pippoReady, setPippoReady] = useState(false);
+  // Stable identity: Pippo3DViewer re-creates its scene when onLoaded changes
+  const handlePippoLoaded = useCallback(() => setPippoReady(true), []);
+  useEffect(() => {
+    if (mode !== "intro") setShouldLoadPippo(true);
+  }, [mode]);
+  useEffect(() => {
+    // canplaythrough/error may fire before hydration (cached clip, failed request)
+    const video = videoRef.current;
+    if (video && (video.error || video.readyState >= HTMLMediaElement.HAVE_ENOUGH_DATA)) {
+      setShouldLoadPippo(true);
+      return;
+    }
+    // Safety net for browsers that never report canplaythrough (e.g. data saver)
+    const fallback = setTimeout(() => setShouldLoadPippo(true), 6000);
+    return () => clearTimeout(fallback);
+  }, []);
 
   // Thought state
   const [query, setQuery] = useState("");
@@ -215,6 +258,9 @@ export function PippoChatbot() {
                   autoPlay
                   muted
                   playsInline
+                  preload="auto"
+                  onCanPlayThrough={() => setShouldLoadPippo(true)}
+                  onError={() => setShouldLoadPippo(true)}
                   onEnded={handleVideoEnded}
                   className="w-full h-auto max-h-[55vh] object-cover"
                 />
@@ -430,15 +476,20 @@ export function PippoChatbot() {
             <div className="absolute -bottom-1 w-20 sm:w-28 h-4 bg-black/60 blur-sm rounded-full pointer-events-none" />
 
             {/* 3D WebGL Viewer - Mobile size kept as is, Desktop size increased a little bit */}
-            <div className="w-[125px] h-[140px] sm:w-[160px] sm:h-[180px] md:w-[175px] md:h-[195px] flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
-              <Pippo3DViewer
-                className="w-full h-full"
-                isWalking={isWalking}
-                isLookingAround={isLookingAround}
-                walkDirection={walkDirection}
-                enableFloating={!isWalking && !isLookingAround}
-                scaleMultiplier={0.96}
-              />
+            <div className="relative w-[125px] h-[140px] sm:w-[160px] sm:h-[180px] md:w-[175px] md:h-[195px] flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+              {shouldLoadPippo && (
+                <Pippo3DViewer
+                  className="w-full h-full"
+                  isWalking={isWalking}
+                  isLookingAround={isLookingAround}
+                  walkDirection={walkDirection}
+                  enableFloating={!isWalking && !isLookingAround}
+                  scaleMultiplier={0.96}
+                  onLoaded={handlePippoLoaded}
+                  showSpinner={false}
+                />
+              )}
+              {!pippoReady && <PippoPlaceholder />}
             </div>
 
             {/* Corner look-around / strolling status badge */}

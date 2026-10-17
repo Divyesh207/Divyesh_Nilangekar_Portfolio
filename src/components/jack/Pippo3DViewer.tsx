@@ -16,6 +16,7 @@ interface Pippo3DViewerProps {
   animateFall?: boolean;
   onLoaded?: () => void;
   scaleMultiplier?: number;
+  showSpinner?: boolean; // false when the parent shows its own placeholder
 }
 
 export function Pippo3DViewer({
@@ -28,6 +29,7 @@ export function Pippo3DViewer({
   animateFall = false,
   onLoaded,
   scaleMultiplier = 0.88,
+  showSpinner = true,
 }: Pippo3DViewerProps) {
   const mountRef = useRef<HTMLDivElement>(null);
   const [loading, setLoading] = useState(true);
@@ -247,7 +249,7 @@ export function Pippo3DViewer({
 
   return (
     <div className={`relative ${className} select-none`}>
-      {loading && (
+      {loading && showSpinner && (
         <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
           <div className="w-6 h-6 rounded-full border-2 border-cyan-400 border-t-transparent animate-spin" />
         </div>
